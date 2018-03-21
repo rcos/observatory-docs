@@ -1,0 +1,4 @@
+[submodule "observatory-server"]
+	path = observatory-server
+	url = https://github.com/rcos/observatory-server.git
+	branch = dev
