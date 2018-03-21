@@ -31,6 +31,5 @@ cd ..
 msg="Rebuilding documentation - `date`"
 git commit -m "$msg"
 
-# Push source and build repos.
+# Push source to github.com/USER/observatory-docs
 git push origin dev
-
