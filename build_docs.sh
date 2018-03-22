@@ -21,11 +21,11 @@ cp -R ./observatory-server/doc/ docs/
 # Go To Public folder
 cd docs
 
-# Add changes to git
-git add .
-
 # Come Back up to the Project Root
 cd ..
+
+# Add changes to git
+git add .
 
 # Commit changes
 msg="Rebuilding documentation - `date`"
