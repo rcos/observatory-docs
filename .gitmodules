@@ -2,3 +2,7 @@
 	path = observatory-server
 	url = https://github.com/rcos/observatory-server.git
 	branch = dev
+[submodule "observatory-client"]
+	path = observatory-client
+	url = https://github.com/rcos/observatory-client.git
+	branch = dev
