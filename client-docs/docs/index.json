@@ -1,0 +1,2315 @@
+[
+  {
+    "__docId__": 1,
+    "kind": "external",
+    "name": "Infinity",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Infinity",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Infinity",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 2,
+    "kind": "external",
+    "name": "NaN",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/NaN",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~NaN",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 3,
+    "kind": "external",
+    "name": "undefined",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/undefined",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~undefined",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 4,
+    "kind": "external",
+    "name": "null",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/null",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~null",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 5,
+    "kind": "external",
+    "name": "Object",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Object",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 6,
+    "kind": "external",
+    "name": "object",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~object",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 7,
+    "kind": "external",
+    "name": "Function",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Function",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 8,
+    "kind": "external",
+    "name": "function",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~function",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 9,
+    "kind": "external",
+    "name": "Boolean",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Boolean",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Boolean",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 10,
+    "kind": "external",
+    "name": "boolean",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Boolean",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~boolean",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 11,
+    "kind": "external",
+    "name": "Symbol",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Symbol",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Symbol",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 12,
+    "kind": "external",
+    "name": "Error",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Error",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Error",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 13,
+    "kind": "external",
+    "name": "EvalError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/EvalError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~EvalError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 14,
+    "kind": "external",
+    "name": "InternalError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/InternalError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~InternalError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 15,
+    "kind": "external",
+    "name": "RangeError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RangeError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~RangeError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 16,
+    "kind": "external",
+    "name": "ReferenceError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/ReferenceError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~ReferenceError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 17,
+    "kind": "external",
+    "name": "SyntaxError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/SyntaxError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~SyntaxError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 18,
+    "kind": "external",
+    "name": "TypeError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/TypeError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~TypeError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 19,
+    "kind": "external",
+    "name": "URIError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/URIError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~URIError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 20,
+    "kind": "external",
+    "name": "Number",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Number",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 21,
+    "kind": "external",
+    "name": "number",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~number",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 22,
+    "kind": "external",
+    "name": "Date",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Date",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 23,
+    "kind": "external",
+    "name": "String",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~String",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 24,
+    "kind": "external",
+    "name": "string",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~string",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 25,
+    "kind": "external",
+    "name": "RegExp",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RegExp",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~RegExp",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 26,
+    "kind": "external",
+    "name": "Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 27,
+    "kind": "external",
+    "name": "Int8Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Int8Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Int8Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 28,
+    "kind": "external",
+    "name": "Uint8Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint8Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Uint8Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 29,
+    "kind": "external",
+    "name": "Uint8ClampedArray",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint8ClampedArray",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Uint8ClampedArray",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 30,
+    "kind": "external",
+    "name": "Int16Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Int16Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Int16Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 31,
+    "kind": "external",
+    "name": "Uint16Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint16Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Uint16Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 32,
+    "kind": "external",
+    "name": "Int32Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Int32Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Int32Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 33,
+    "kind": "external",
+    "name": "Uint32Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint32Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Uint32Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 34,
+    "kind": "external",
+    "name": "Float32Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Float32Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Float32Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 35,
+    "kind": "external",
+    "name": "Float64Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Float64Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Float64Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 36,
+    "kind": "external",
+    "name": "Map",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Map",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Map",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 37,
+    "kind": "external",
+    "name": "Set",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Set",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Set",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 38,
+    "kind": "external",
+    "name": "WeakMap",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/WeakMap",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~WeakMap",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 39,
+    "kind": "external",
+    "name": "WeakSet",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/WeakSet",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~WeakSet",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 40,
+    "kind": "external",
+    "name": "ArrayBuffer",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/ArrayBuffer",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~ArrayBuffer",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 41,
+    "kind": "external",
+    "name": "DataView",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/DataView",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~DataView",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 42,
+    "kind": "external",
+    "name": "JSON",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~JSON",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 43,
+    "kind": "external",
+    "name": "Promise",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Promise",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 44,
+    "kind": "external",
+    "name": "Generator",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Generator",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Generator",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 45,
+    "kind": "external",
+    "name": "GeneratorFunction",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/GeneratorFunction",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~GeneratorFunction",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 46,
+    "kind": "external",
+    "name": "Reflect",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Reflect",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Reflect",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 47,
+    "kind": "external",
+    "name": "Proxy",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Proxy",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Proxy",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 48,
+    "kind": "file",
+    "name": "src/config/api.js",
+    "content": "\nconst API_URL = 'http://api.dev/v1/'\n\nfunction apiUrl (path) {\n  return API_URL + path\n}\n\nexport default {\n  api: {\n    auth_url: apiUrl('auth')\n  }\n}\n",
+    "static": true,
+    "longname": "/home/aeksco/code/rcos/observatory-docs/observatory-client/src/config/api.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 49,
+    "kind": "variable",
+    "name": "API_URL",
+    "memberof": "src/config/api.js",
+    "static": true,
+    "longname": "src/config/api.js~API_URL",
+    "access": "public",
+    "export": false,
+    "importPath": "observatory-client/src/config/api.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 2,
+    "undocument": true,
+    "type": {
+      "types": [
+        "string"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 50,
+    "kind": "function",
+    "name": "apiUrl",
+    "memberof": "src/config/api.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/config/api.js~apiUrl",
+    "access": "public",
+    "export": false,
+    "importPath": "observatory-client/src/config/api.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 4,
+    "undocument": true,
+    "params": [
+      {
+        "name": "path",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 51,
+    "kind": "file",
+    "name": "src/config/index.js",
+    "content": "// Application-wide configurations\nimport './vue'\nimport api from './api'\n\nexport default {\n  api\n}\n",
+    "static": true,
+    "longname": "/home/aeksco/code/rcos/observatory-docs/observatory-client/src/config/index.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 52,
+    "kind": "file",
+    "name": "src/config/vue.js",
+    "content": "import Vue from 'vue'\nimport Router from 'vue-router'\nimport Vuex from 'vuex'\nimport Meta from 'vue-meta'\nimport BootstrapVue from 'bootstrap-vue'\nimport mavonEditor from 'mavon-editor'\nimport 'mavon-editor/dist/css/index.css'\nimport 'bootstrap/dist/css/bootstrap.css'\nimport 'bootstrap-vue/dist/bootstrap-vue.css'\n\n// vue-router\n// Router library\nVue.use(Router)\n\n// vuex\n// State management library\nVue.use(Vuex)\n\n// vue-meta\n// Supports `meta` object returned with `module.defaults`\nVue.use(Meta)\n\n// BootstrapVue configuration\nVue.use(BootstrapVue)\n\n// mavon-editor\nVue.use(mavonEditor)\n",
+    "static": true,
+    "longname": "/home/aeksco/code/rcos/observatory-docs/observatory-client/src/config/vue.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 53,
+    "kind": "file",
+    "name": "src/main.js",
+    "content": "// The Vue build version to load with the `import` command\n// (runtime-only or standalone) has been set in webpack.base.conf with an alias.\nimport '@/config'\nimport Vue from 'vue'\nimport App from './App'\nimport router from './routers'\nimport store from '@/store'\nimport PageHeader from '@/components/PageHeader'\nwindow.store = store\n// QUESTION - ??\nVue.config.productionTip = false\n\n// Bootstraps Global Components\nVue.component('PageHeader', PageHeader)\n\n/* eslint-disable no-new */\nnew Vue({\n  el: '#app',\n  store, // Vuex Store - QUESTION - why is this not available to all child components as `this.$store`?\n  router: router,\n  template: '<App/>',\n  components: { App }\n})\n",
+    "static": true,
+    "longname": "/home/aeksco/code/rcos/observatory-docs/observatory-client/src/main.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 54,
+    "kind": "file",
+    "name": "src/routers/achievement.js",
+    "content": "// Achievement Containers\nimport AchievementList from '@/containers/achievement_list'\n\nconst AchievementListRoute = {\n  path: '/achievements',\n  name: 'achievement_list',\n  component: AchievementList\n}\n\nexport default [\n  AchievementListRoute\n]\n",
+    "static": true,
+    "longname": "/home/aeksco/code/rcos/observatory-docs/observatory-client/src/routers/achievement.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 55,
+    "kind": "variable",
+    "name": "AchievementListRoute",
+    "memberof": "src/routers/achievement.js",
+    "static": true,
+    "longname": "src/routers/achievement.js~AchievementListRoute",
+    "access": "public",
+    "export": false,
+    "importPath": "observatory-client/src/routers/achievement.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 4,
+    "undocument": true,
+    "type": {
+      "types": [
+        "{\"path\": string, \"name\": string, \"component\": *}"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 56,
+    "kind": "file",
+    "name": "src/routers/admin.js",
+    "content": "// Admin Containers\nimport AdminAttendance from '@/containers/admin_attendance'\nimport AdminSettings from '@/containers/admin_settings'\nimport AdminUsers from '@/containers/admin_users'\n\nconst AdminAttendanceRoute = {\n  path: '/admin/attendance',\n  name: 'admin_attendance',\n  component: AdminAttendance\n}\n\nconst AdminUserRoute = {\n  path: '/admin/users',\n  name: 'admin_users',\n  component: AdminUsers\n}\n\nconst AdminSettingsRoute = {\n  path: '/admin/settings',\n  name: 'admin_settings',\n  component: AdminSettings\n}\n\nexport default [\n  AdminAttendanceRoute,\n  AdminUserRoute,\n  AdminSettingsRoute\n]\n",
+    "static": true,
+    "longname": "/home/aeksco/code/rcos/observatory-docs/observatory-client/src/routers/admin.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 57,
+    "kind": "variable",
+    "name": "AdminAttendanceRoute",
+    "memberof": "src/routers/admin.js",
+    "static": true,
+    "longname": "src/routers/admin.js~AdminAttendanceRoute",
+    "access": "public",
+    "export": false,
+    "importPath": "observatory-client/src/routers/admin.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 6,
+    "undocument": true,
+    "type": {
+      "types": [
+        "{\"path\": string, \"name\": string, \"component\": *}"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 58,
+    "kind": "variable",
+    "name": "AdminUserRoute",
+    "memberof": "src/routers/admin.js",
+    "static": true,
+    "longname": "src/routers/admin.js~AdminUserRoute",
+    "access": "public",
+    "export": false,
+    "importPath": "observatory-client/src/routers/admin.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 12,
+    "undocument": true,
+    "type": {
+      "types": [
+        "{\"path\": string, \"name\": string, \"component\": *}"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 59,
+    "kind": "variable",
+    "name": "AdminSettingsRoute",
+    "memberof": "src/routers/admin.js",
+    "static": true,
+    "longname": "src/routers/admin.js~AdminSettingsRoute",
+    "access": "public",
+    "export": false,
+    "importPath": "observatory-client/src/routers/admin.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 18,
+    "undocument": true,
+    "type": {
+      "types": [
+        "{\"path\": string, \"name\": string, \"component\": *}"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 60,
+    "kind": "file",
+    "name": "src/routers/auth.js",
+    "content": "// Auth Containers\nimport AuthLogin from '@/containers/auth_login'\nimport AuthRegister from '@/containers/auth_register'\n\nconst AuthLoginRoute = {\n  path: '/auth/login',\n  name: 'auth_login',\n  component: AuthLogin\n}\n\nconst AuthRegisterRoute = {\n  path: '/auth/register',\n  name: 'auth_register',\n  component: AuthRegister\n}\n\nexport default [\n  AuthLoginRoute,\n  AuthRegisterRoute\n]\n",
+    "static": true,
+    "longname": "/home/aeksco/code/rcos/observatory-docs/observatory-client/src/routers/auth.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 61,
+    "kind": "variable",
+    "name": "AuthLoginRoute",
+    "memberof": "src/routers/auth.js",
+    "static": true,
+    "longname": "src/routers/auth.js~AuthLoginRoute",
+    "access": "public",
+    "export": false,
+    "importPath": "observatory-client/src/routers/auth.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 5,
+    "undocument": true,
+    "type": {
+      "types": [
+        "{\"path\": string, \"name\": string, \"component\": *}"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 62,
+    "kind": "variable",
+    "name": "AuthRegisterRoute",
+    "memberof": "src/routers/auth.js",
+    "static": true,
+    "longname": "src/routers/auth.js~AuthRegisterRoute",
+    "access": "public",
+    "export": false,
+    "importPath": "observatory-client/src/routers/auth.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 11,
+    "undocument": true,
+    "type": {
+      "types": [
+        "{\"path\": string, \"name\": string, \"component\": *}"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 63,
+    "kind": "file",
+    "name": "src/routers/blog.js",
+    "content": "// Blog Containers\nimport BlogList from '@/containers/blog_list'\nimport BlogNew from '@/containers/blog_new'\nimport BlogEdit from '@/containers/blog_edit'\nimport BlogShow from '@/containers/blog_show'\n\nconst BlogListRoute = {\n  path: '/blogs',\n  name: 'blog_list',\n  component: BlogList\n}\n\nconst BlogNewRoute = {\n  path: '/blogs/new',\n  name: 'blog_new',\n  component: BlogNew\n}\n\nconst BlogEditRoute = {\n  path: '/blogs/:id/edit',\n  name: 'blog_edit',\n  component: BlogEdit,\n  props: true\n}\n\nconst BlogShowRoute = {\n  path: '/blogs/:id',\n  name: 'blog_show',\n  component: BlogShow,\n  props: true\n}\n\nexport default [\n  BlogListRoute,\n  BlogNewRoute,\n  BlogEditRoute,\n  BlogShowRoute\n]\n",
+    "static": true,
+    "longname": "/home/aeksco/code/rcos/observatory-docs/observatory-client/src/routers/blog.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 64,
+    "kind": "variable",
+    "name": "BlogListRoute",
+    "memberof": "src/routers/blog.js",
+    "static": true,
+    "longname": "src/routers/blog.js~BlogListRoute",
+    "access": "public",
+    "export": false,
+    "importPath": "observatory-client/src/routers/blog.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 7,
+    "undocument": true,
+    "type": {
+      "types": [
+        "{\"path\": string, \"name\": string, \"component\": *}"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 65,
+    "kind": "variable",
+    "name": "BlogNewRoute",
+    "memberof": "src/routers/blog.js",
+    "static": true,
+    "longname": "src/routers/blog.js~BlogNewRoute",
+    "access": "public",
+    "export": false,
+    "importPath": "observatory-client/src/routers/blog.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 13,
+    "undocument": true,
+    "type": {
+      "types": [
+        "{\"path\": string, \"name\": string, \"component\": *}"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 66,
+    "kind": "variable",
+    "name": "BlogEditRoute",
+    "memberof": "src/routers/blog.js",
+    "static": true,
+    "longname": "src/routers/blog.js~BlogEditRoute",
+    "access": "public",
+    "export": false,
+    "importPath": "observatory-client/src/routers/blog.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 19,
+    "undocument": true,
+    "type": {
+      "types": [
+        "{\"path\": string, \"name\": string, \"component\": *, \"props\": boolean}"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 67,
+    "kind": "variable",
+    "name": "BlogShowRoute",
+    "memberof": "src/routers/blog.js",
+    "static": true,
+    "longname": "src/routers/blog.js~BlogShowRoute",
+    "access": "public",
+    "export": false,
+    "importPath": "observatory-client/src/routers/blog.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 26,
+    "undocument": true,
+    "type": {
+      "types": [
+        "{\"path\": string, \"name\": string, \"component\": *, \"props\": boolean}"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 68,
+    "kind": "file",
+    "name": "src/routers/index.js",
+    "content": "import Router from 'vue-router'\nimport Middleware from './middleware'\n\n// Import routes\nimport AdminRoutes from './admin'\nimport AchievementRoutes from './achievement'\nimport AuthRoutes from './auth'\nimport BlogRoutes from './blog'\nimport MainRoutes from './main'\nimport MentorRoutes from './mentor'\nimport ProjectRoutes from './project'\nimport UserRoutes from './user'\nimport SmallGroupRoutes from './smallgroup'\n\n// Instantiates new Vue-Router instance\nlet router = new Router({\n  routes: [\n    ...AdminRoutes,\n    ...AchievementRoutes,\n    ...AuthRoutes,\n    ...BlogRoutes,\n    ...MainRoutes,\n    ...MentorRoutes,\n    ...ProjectRoutes,\n    ...UserRoutes,\n    ...SmallGroupRoutes\n  ]\n})\n\n// Ensures user authentication before each route\nrouter.beforeEach(Middleware.ensureAuthenticated)\n\nexport default router\n",
+    "static": true,
+    "longname": "/home/aeksco/code/rcos/observatory-docs/observatory-client/src/routers/index.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 69,
+    "kind": "file",
+    "name": "src/routers/main.js",
+    "content": "// Main Containers\nimport MainHome from '@/containers/main_home'\nimport MainSponsors from '@/containers/main_sponsors'\nimport MainAttend from '@/containers/main_attend'\n\nconst MainHomeRoute = {\n  path: '/',\n  name: 'main_home',\n  component: MainHome\n}\n\nconst MainSponsorsRoute = {\n  path: '/sponsors',\n  name: 'main_sponsors',\n  component: MainSponsors\n}\n\nconst MainAttendRoute = {\n  path: '/main/attend',\n  name: 'main_attendance',\n  component: MainAttend\n}\n\nexport default [\n  MainHomeRoute,\n  MainSponsorsRoute,\n  MainAttendRoute\n]\n",
+    "static": true,
+    "longname": "/home/aeksco/code/rcos/observatory-docs/observatory-client/src/routers/main.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 70,
+    "kind": "variable",
+    "name": "MainHomeRoute",
+    "memberof": "src/routers/main.js",
+    "static": true,
+    "longname": "src/routers/main.js~MainHomeRoute",
+    "access": "public",
+    "export": false,
+    "importPath": "observatory-client/src/routers/main.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 6,
+    "undocument": true,
+    "type": {
+      "types": [
+        "{\"path\": string, \"name\": string, \"component\": *}"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 71,
+    "kind": "variable",
+    "name": "MainSponsorsRoute",
+    "memberof": "src/routers/main.js",
+    "static": true,
+    "longname": "src/routers/main.js~MainSponsorsRoute",
+    "access": "public",
+    "export": false,
+    "importPath": "observatory-client/src/routers/main.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 12,
+    "undocument": true,
+    "type": {
+      "types": [
+        "{\"path\": string, \"name\": string, \"component\": *}"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 72,
+    "kind": "variable",
+    "name": "MainAttendRoute",
+    "memberof": "src/routers/main.js",
+    "static": true,
+    "longname": "src/routers/main.js~MainAttendRoute",
+    "access": "public",
+    "export": false,
+    "importPath": "observatory-client/src/routers/main.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 18,
+    "undocument": true,
+    "type": {
+      "types": [
+        "{\"path\": string, \"name\": string, \"component\": *}"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 73,
+    "kind": "file",
+    "name": "src/routers/mentor.js",
+    "content": "// Mentor Containers\nimport MentorVerify from '@/containers/mentor_verify'\nimport MentorSmallGroup from '@/containers/mentor_small_group'\n\nconst MentorVerifyRoute = {\n  path: '/mentor/verify',\n  name: 'Mentor Verify',\n  component: MentorVerify\n}\n\nconst MentorSmallGroupRoute = {\n  path: '/mentor/small_group',\n  name: 'Mentor Small Group',\n  component: MentorSmallGroup\n}\n\nexport default [\n  MentorVerifyRoute,\n  MentorSmallGroupRoute\n]\n",
+    "static": true,
+    "longname": "/home/aeksco/code/rcos/observatory-docs/observatory-client/src/routers/mentor.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 74,
+    "kind": "variable",
+    "name": "MentorVerifyRoute",
+    "memberof": "src/routers/mentor.js",
+    "static": true,
+    "longname": "src/routers/mentor.js~MentorVerifyRoute",
+    "access": "public",
+    "export": false,
+    "importPath": "observatory-client/src/routers/mentor.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 5,
+    "undocument": true,
+    "type": {
+      "types": [
+        "{\"path\": string, \"name\": string, \"component\": *}"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 75,
+    "kind": "variable",
+    "name": "MentorSmallGroupRoute",
+    "memberof": "src/routers/mentor.js",
+    "static": true,
+    "longname": "src/routers/mentor.js~MentorSmallGroupRoute",
+    "access": "public",
+    "export": false,
+    "importPath": "observatory-client/src/routers/mentor.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 11,
+    "undocument": true,
+    "type": {
+      "types": [
+        "{\"path\": string, \"name\": string, \"component\": *}"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 76,
+    "kind": "file",
+    "name": "src/routers/middleware.js",
+    "content": "// import Auth from '../services/auth.js'\nimport store from '@/store'\n\nconst requireAuth = (route, redirect, next) => {\n  if (store.getters['auth/token']) {\n    redirect({\n      path: '/auth/login',\n      query: { redirect: route.fullPath }\n    })\n  } else {\n    next()\n  }\n}\n\nconst ensureAuthenticated = (route, redirect, next) => {\n  // Pulls currentUser from Auth module store\n  let token = store.getters['auth/token']\n  let currentUser = store.getters['auth/current_user']\n\n  // Jumps to the next route if the user is _definitely_ not authenticated\n  if (!token) {\n    return next()\n  } else if (currentUser._id) {\n    // Routes if the currentUser exists\n    next()\n  } else {\n    // Requests currentUser and redirects upon Promise resolution\n    store.dispatch('auth/fetchUserProfile')\n    .then(() => { next() })\n    .catch(() => { next() })\n  }\n}\n\nexport default {\n  requireAuth,\n  ensureAuthenticated\n}\n",
+    "static": true,
+    "longname": "/home/aeksco/code/rcos/observatory-docs/observatory-client/src/routers/middleware.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 77,
+    "kind": "function",
+    "name": "requireAuth",
+    "memberof": "src/routers/middleware.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/routers/middleware.js~requireAuth",
+    "access": "public",
+    "export": false,
+    "importPath": "observatory-client/src/routers/middleware.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 4,
+    "undocument": true,
+    "params": [
+      {
+        "name": "route",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "redirect",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "next",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": null,
+    "ignore": true
+  },
+  {
+    "__docId__": 78,
+    "kind": "function",
+    "name": "ensureAuthenticated",
+    "memberof": "src/routers/middleware.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/routers/middleware.js~ensureAuthenticated",
+    "access": "public",
+    "export": false,
+    "importPath": "observatory-client/src/routers/middleware.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 15,
+    "undocument": true,
+    "params": [
+      {
+        "name": "route",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "redirect",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "next",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 79,
+    "kind": "file",
+    "name": "src/routers/project.js",
+    "content": "// Project Containers\nimport ProjectList from '@/containers/project_list'\nimport ProjectNew from '@/containers/project_new'\nimport ProjectShow from '@/containers/project_show'\nimport ProjectEdit from '@/containers/project_edit'\n\nconst ProjectListRoute = {\n  path: '/projects',\n  name: 'Project List',\n  component: ProjectList\n  // beforeEnter: Middleware.ensureAuthenticated\n}\n\nconst ProjectNewRoute = {\n  path: '/projects/new',\n  name: 'Project New',\n  component: ProjectNew\n  // beforeEnter: Middleware.requireAuth\n}\n\nconst ProjectShowRoute = {\n  path: '/projects/:id',\n  name: 'Project Show',\n  component: ProjectShow,\n  props: true\n}\n\nconst ProjectEditRoute = {\n  path: '/projects/:id/edit',\n  name: 'Project Edit',\n  component: ProjectEdit,\n  props: true\n  // beforeEnter: Middleware.requireAuth\n}\n\nexport default [\n  ProjectListRoute,\n  ProjectNewRoute,\n  ProjectShowRoute,\n  ProjectEditRoute\n]\n",
+    "static": true,
+    "longname": "/home/aeksco/code/rcos/observatory-docs/observatory-client/src/routers/project.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 80,
+    "kind": "variable",
+    "name": "ProjectListRoute",
+    "memberof": "src/routers/project.js",
+    "static": true,
+    "longname": "src/routers/project.js~ProjectListRoute",
+    "access": "public",
+    "export": false,
+    "importPath": "observatory-client/src/routers/project.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 7,
+    "undocument": true,
+    "type": {
+      "types": [
+        "{\"path\": string, \"name\": string, \"component\": *}"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 81,
+    "kind": "variable",
+    "name": "ProjectNewRoute",
+    "memberof": "src/routers/project.js",
+    "static": true,
+    "longname": "src/routers/project.js~ProjectNewRoute",
+    "access": "public",
+    "export": false,
+    "importPath": "observatory-client/src/routers/project.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 14,
+    "undocument": true,
+    "type": {
+      "types": [
+        "{\"path\": string, \"name\": string, \"component\": *}"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 82,
+    "kind": "variable",
+    "name": "ProjectShowRoute",
+    "memberof": "src/routers/project.js",
+    "static": true,
+    "longname": "src/routers/project.js~ProjectShowRoute",
+    "access": "public",
+    "export": false,
+    "importPath": "observatory-client/src/routers/project.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 21,
+    "undocument": true,
+    "type": {
+      "types": [
+        "{\"path\": string, \"name\": string, \"component\": *, \"props\": boolean}"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 83,
+    "kind": "variable",
+    "name": "ProjectEditRoute",
+    "memberof": "src/routers/project.js",
+    "static": true,
+    "longname": "src/routers/project.js~ProjectEditRoute",
+    "access": "public",
+    "export": false,
+    "importPath": "observatory-client/src/routers/project.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 28,
+    "undocument": true,
+    "type": {
+      "types": [
+        "{\"path\": string, \"name\": string, \"component\": *, \"props\": boolean}"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 84,
+    "kind": "file",
+    "name": "src/routers/smallgroup.js",
+    "content": "// SmallGroup Containers\nimport SmallGroupList from '@/containers/smallgroup_list'\n\nconst SmallGroupListRoute = {\n  path: '/smallgroups',\n  name: 'smallgroup_list',\n  component: SmallGroupList\n}\n\nexport default [\n  SmallGroupListRoute\n]\n",
+    "static": true,
+    "longname": "/home/aeksco/code/rcos/observatory-docs/observatory-client/src/routers/smallgroup.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 85,
+    "kind": "variable",
+    "name": "SmallGroupListRoute",
+    "memberof": "src/routers/smallgroup.js",
+    "static": true,
+    "longname": "src/routers/smallgroup.js~SmallGroupListRoute",
+    "access": "public",
+    "export": false,
+    "importPath": "observatory-client/src/routers/smallgroup.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 4,
+    "undocument": true,
+    "type": {
+      "types": [
+        "{\"path\": string, \"name\": string, \"component\": *}"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 86,
+    "kind": "file",
+    "name": "src/routers/user.js",
+    "content": "// User Containers\nimport UserList from '@/containers/user_list'\nimport UserShow from '@/containers/user_show'\nimport UserSettings from '@/containers/user_settings'\n\nconst UserListRoute = {\n  path: '/users',\n  name: 'user_list',\n  component: UserList\n}\n\nconst UserShowRoute = {\n  path: '/users/:id',\n  name: 'user_show',\n  component: UserShow,\n  props: true\n}\n\nconst UserSettingsRoute = {\n  path: '/settings',\n  name: 'user_settings',\n  component: UserSettings\n}\n\nexport default [\n  UserListRoute,\n  UserShowRoute,\n  UserSettingsRoute\n]\n",
+    "static": true,
+    "longname": "/home/aeksco/code/rcos/observatory-docs/observatory-client/src/routers/user.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 87,
+    "kind": "variable",
+    "name": "UserListRoute",
+    "memberof": "src/routers/user.js",
+    "static": true,
+    "longname": "src/routers/user.js~UserListRoute",
+    "access": "public",
+    "export": false,
+    "importPath": "observatory-client/src/routers/user.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 6,
+    "undocument": true,
+    "type": {
+      "types": [
+        "{\"path\": string, \"name\": string, \"component\": *}"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 88,
+    "kind": "variable",
+    "name": "UserShowRoute",
+    "memberof": "src/routers/user.js",
+    "static": true,
+    "longname": "src/routers/user.js~UserShowRoute",
+    "access": "public",
+    "export": false,
+    "importPath": "observatory-client/src/routers/user.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 12,
+    "undocument": true,
+    "type": {
+      "types": [
+        "{\"path\": string, \"name\": string, \"component\": *, \"props\": boolean}"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 89,
+    "kind": "variable",
+    "name": "UserSettingsRoute",
+    "memberof": "src/routers/user.js",
+    "static": true,
+    "longname": "src/routers/user.js~UserSettingsRoute",
+    "access": "public",
+    "export": false,
+    "importPath": "observatory-client/src/routers/user.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 19,
+    "undocument": true,
+    "type": {
+      "types": [
+        "{\"path\": string, \"name\": string, \"component\": *}"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 90,
+    "kind": "file",
+    "name": "src/store/achievement/actions.js",
+    "content": "import { $GET, $POST, $DEL } from '@/store/lib/helpers'\nconst API_ROOT = '/api/achievements'\n// Achievement actions\nexport default {\n  fetchCollection ({ commit }) {\n    commit('fetching', true)\n\n    // Fetches Collection from the server\n    $GET(API_ROOT)\n    .then((json) => {\n      commit('collection', json)\n      commit('fetching', false)\n    })\n    .catch((err) => {\n      commit('fetching', false)\n      throw err // TODO - better error handling\n    })\n  },\n  fetchModel ({ commit }) {\n  },\n  create ({ commit, rootGetters }) {\n    $POST(API_ROOT, {\n      token: rootGetters['auth/token'],\n      body: {\n        title: 'sample-achievement',\n        description: 'test123',\n        date: new Date()\n      }\n    })\n    .then((json) => {\n      console.log('Create Post [Done]')\n      console.log(json)\n    })\n    .catch((err) => {\n      console.log('Create in create:\\n' + err)\n      throw err\n    })\n  },\n  update ({ commit }) {\n  },\n  destroy ({ commit, rootGetters }, achievementId) {\n    $DEL(API_ROOT + '/' + achievementId, {\n      token: rootGetters['auth/token']\n    })\n    .then((json) => {\n      console.log('Successfully deleted.')\n      console.log(json)\n    })\n    .catch((err) => {\n      console.log('Error in delete:\\n' + err)\n      throw err\n    })\n  }\n}\n",
+    "static": true,
+    "longname": "/home/aeksco/code/rcos/observatory-docs/observatory-client/src/store/achievement/actions.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 91,
+    "kind": "variable",
+    "name": "API_ROOT",
+    "memberof": "src/store/achievement/actions.js",
+    "static": true,
+    "longname": "src/store/achievement/actions.js~API_ROOT",
+    "access": "public",
+    "export": false,
+    "importPath": "observatory-client/src/store/achievement/actions.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 2,
+    "undocument": true,
+    "type": {
+      "types": [
+        "string"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 92,
+    "kind": "file",
+    "name": "src/store/achievement/index.js",
+    "content": "import actions from './actions'\nimport state from './state'\nimport getters from './getters'\nimport mutations from './mutations'\n\nexport default {\n  namespaced: true,\n  state: state,\n  mutations: mutations,\n  actions: actions,\n  getters: getters\n}\n",
+    "static": true,
+    "longname": "/home/aeksco/code/rcos/observatory-docs/observatory-client/src/store/achievement/index.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 93,
+    "kind": "file",
+    "name": "src/store/auth/actions.js",
+    "content": "import Router from '@/routers'\nimport { $GET, $POST } from '@/store/lib/helpers'\nimport {\n  LOGIN_ROUTE,\n  REGISTER_ROUTE,\n  PROFILE_ROUTE,\n  LOGIN_SUCCESS_NOTIFICATION,\n  LOGIN_ERROR_NOTIFICATION,\n  REGISTER_SUCCESS_NOTIFICATION,\n  REGISTER_ERROR_NOTIFICATION\n} from './constants'\n\n// Auth module actions\nconst actions = {\n  // fetchUserProfile\n  // Fetches a user's profiles form the server\n  fetchUserProfile ({ state, commit }) {\n    return new Promise((resolve, reject) => {\n      $GET(PROFILE_ROUTE, { token: state.token })\n      .then((json) => {\n        commit('current_user', json)\n        return resolve(json)\n      })\n      .catch((err) => {\n        commit('clear_token')\n        commit('clear_current_user')\n        // throw err\n        return reject(err)\n      })\n    })\n  },\n\n  // register\n  // Handles user registration state management\n  register ({ state, dispatch, commit }) {\n    // state.loggin_in = true\n    commit('logging_in', true)\n\n    // Assembles request payload\n    let { email, password, name, github } = state.register_user\n\n    // Sends registration data to server\n    $POST(REGISTER_ROUTE, { body: { email, password, name, github } })\n    .then((json) => {\n      commit('clear_register_user')\n      commit('logging_in', false)\n\n      // Updates store.token\n      commit('token', json.token)\n\n      // Fetches user profile\n      dispatch('fetchUserProfile')\n\n      // Shows REGISTER_SUCCESS_NOTIFICATION message\n      commit('notification/add', REGISTER_SUCCESS_NOTIFICATION, { root: true })\n\n      // Redirects to home route\n      Router.push('/')\n    })\n    .catch((err) => {\n      // Shows REGISTER_ERROR_NOTIFICATION message\n      commit('notification/add', REGISTER_ERROR_NOTIFICATION, { root: true })\n      throw err\n    })\n  },\n\n  // login\n  // Handles user login state management\n  login ({ commit, dispatch, state }) {\n    // state.loggin_in = true\n    commit('logging_in', true)\n\n    // Assembles request payload\n    let { email, password } = state.login_user\n\n    // Sends login data to server\n    $POST(LOGIN_ROUTE, { body: { email, password } })\n    .then((json) => {\n      // Changes loading state\n      commit('logging_in', false)\n\n      // Clears state.login_user\n      commit('clear_login_user')\n\n      // Updates store.token\n      commit('token', json.token)\n\n      // Shows LOGIN_SUCCESS_NOTIFICATION message\n      commit('notification/add', LOGIN_SUCCESS_NOTIFICATION, { root: true })\n\n      // Fetches user profile\n      dispatch('fetchUserProfile')\n\n      // Redirects to home route\n      Router.push('/')\n    })\n    .catch((err) => {\n      // Shows LOGIN_ERROR_NOTIFICATION message\n      commit('notification/add', LOGIN_ERROR_NOTIFICATION, { root: true })\n      throw err\n    })\n  },\n\n  // logout\n  // Handles user logout\n  logout ({ commit }) {\n    commit('clear_token')\n    commit('clear_current_user')\n    Router.push('/auth/login')\n  }\n}\n\n// // // //\n\nexport default actions\n",
+    "static": true,
+    "longname": "/home/aeksco/code/rcos/observatory-docs/observatory-client/src/store/auth/actions.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 94,
+    "kind": "variable",
+    "name": "actions",
+    "memberof": "src/store/auth/actions.js",
+    "static": true,
+    "longname": "src/store/auth/actions.js~actions",
+    "access": "public",
+    "export": true,
+    "importPath": "observatory-client/src/store/auth/actions.js",
+    "importStyle": "actions",
+    "description": null,
+    "lineNumber": 14,
+    "undocument": true,
+    "type": {
+      "types": [
+        "{\"fetchUserProfile\": function, \"register\": function, \"login\": function, \"logout\": function}"
+      ]
+    }
+  },
+  {
+    "__docId__": 95,
+    "kind": "file",
+    "name": "src/store/auth/constants.js",
+    "content": "// Routes\nexport const LOGIN_ROUTE = '/auth/local'\nexport const REGISTER_ROUTE = '/api/users'\nexport const PROFILE_ROUTE = '/api/users/me'\n\n// Notifications\nexport const LOGIN_SUCCESS_NOTIFICATION = {\n  message: 'Successfully authenticated',\n  context: 'success',\n  dismissible: true\n}\n\nexport const LOGIN_ERROR_NOTIFICATION = {\n  message: 'Authentication error',\n  context: 'warning',\n  dismissible: true\n}\n\nexport const REGISTER_SUCCESS_NOTIFICATION = {\n  message: 'Successfully registered',\n  context: 'success',\n  dismissible: true\n}\n\nexport const REGISTER_ERROR_NOTIFICATION = {\n  message: 'Registration error',\n  context: 'warning',\n  dismissible: true\n}\n",
+    "static": true,
+    "longname": "/home/aeksco/code/rcos/observatory-docs/observatory-client/src/store/auth/constants.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 96,
+    "kind": "variable",
+    "name": "LOGIN_ROUTE",
+    "memberof": "src/store/auth/constants.js",
+    "static": true,
+    "longname": "src/store/auth/constants.js~LOGIN_ROUTE",
+    "access": "public",
+    "export": true,
+    "importPath": "observatory-client/src/store/auth/constants.js",
+    "importStyle": "{LOGIN_ROUTE}",
+    "description": null,
+    "lineNumber": 2,
+    "undocument": true,
+    "type": {
+      "types": [
+        "string"
+      ]
+    }
+  },
+  {
+    "__docId__": 97,
+    "kind": "variable",
+    "name": "REGISTER_ROUTE",
+    "memberof": "src/store/auth/constants.js",
+    "static": true,
+    "longname": "src/store/auth/constants.js~REGISTER_ROUTE",
+    "access": "public",
+    "export": true,
+    "importPath": "observatory-client/src/store/auth/constants.js",
+    "importStyle": "{REGISTER_ROUTE}",
+    "description": null,
+    "lineNumber": 3,
+    "undocument": true,
+    "type": {
+      "types": [
+        "string"
+      ]
+    }
+  },
+  {
+    "__docId__": 98,
+    "kind": "variable",
+    "name": "PROFILE_ROUTE",
+    "memberof": "src/store/auth/constants.js",
+    "static": true,
+    "longname": "src/store/auth/constants.js~PROFILE_ROUTE",
+    "access": "public",
+    "export": true,
+    "importPath": "observatory-client/src/store/auth/constants.js",
+    "importStyle": "{PROFILE_ROUTE}",
+    "description": null,
+    "lineNumber": 4,
+    "undocument": true,
+    "type": {
+      "types": [
+        "string"
+      ]
+    }
+  },
+  {
+    "__docId__": 99,
+    "kind": "variable",
+    "name": "LOGIN_SUCCESS_NOTIFICATION",
+    "memberof": "src/store/auth/constants.js",
+    "static": true,
+    "longname": "src/store/auth/constants.js~LOGIN_SUCCESS_NOTIFICATION",
+    "access": "public",
+    "export": true,
+    "importPath": "observatory-client/src/store/auth/constants.js",
+    "importStyle": "{LOGIN_SUCCESS_NOTIFICATION}",
+    "description": null,
+    "lineNumber": 7,
+    "undocument": true,
+    "type": {
+      "types": [
+        "{\"message\": string, \"context\": string, \"dismissible\": boolean}"
+      ]
+    }
+  },
+  {
+    "__docId__": 100,
+    "kind": "variable",
+    "name": "LOGIN_ERROR_NOTIFICATION",
+    "memberof": "src/store/auth/constants.js",
+    "static": true,
+    "longname": "src/store/auth/constants.js~LOGIN_ERROR_NOTIFICATION",
+    "access": "public",
+    "export": true,
+    "importPath": "observatory-client/src/store/auth/constants.js",
+    "importStyle": "{LOGIN_ERROR_NOTIFICATION}",
+    "description": null,
+    "lineNumber": 13,
+    "undocument": true,
+    "type": {
+      "types": [
+        "{\"message\": string, \"context\": string, \"dismissible\": boolean}"
+      ]
+    }
+  },
+  {
+    "__docId__": 101,
+    "kind": "variable",
+    "name": "REGISTER_SUCCESS_NOTIFICATION",
+    "memberof": "src/store/auth/constants.js",
+    "static": true,
+    "longname": "src/store/auth/constants.js~REGISTER_SUCCESS_NOTIFICATION",
+    "access": "public",
+    "export": true,
+    "importPath": "observatory-client/src/store/auth/constants.js",
+    "importStyle": "{REGISTER_SUCCESS_NOTIFICATION}",
+    "description": null,
+    "lineNumber": 19,
+    "undocument": true,
+    "type": {
+      "types": [
+        "{\"message\": string, \"context\": string, \"dismissible\": boolean}"
+      ]
+    }
+  },
+  {
+    "__docId__": 102,
+    "kind": "variable",
+    "name": "REGISTER_ERROR_NOTIFICATION",
+    "memberof": "src/store/auth/constants.js",
+    "static": true,
+    "longname": "src/store/auth/constants.js~REGISTER_ERROR_NOTIFICATION",
+    "access": "public",
+    "export": true,
+    "importPath": "observatory-client/src/store/auth/constants.js",
+    "importStyle": "{REGISTER_ERROR_NOTIFICATION}",
+    "description": null,
+    "lineNumber": 25,
+    "undocument": true,
+    "type": {
+      "types": [
+        "{\"message\": string, \"context\": string, \"dismissible\": boolean}"
+      ]
+    }
+  },
+  {
+    "__docId__": 103,
+    "kind": "file",
+    "name": "src/store/auth/getters.js",
+    "content": "\n// Auth Module Getters\nconst getters = {\n  login_user: state => {\n    return state.login_user\n  },\n  register_user: state => {\n    return state.register_user\n  },\n  is_authenticated: state => {\n    if (state.current_user._id) {\n      return true\n    } else {\n      return false\n    }\n  },\n  isMentor: state => {\n    return state.current_user.role === 'mentor'\n  },\n  isAdmin: state => {\n    return state.current_user.role === 'admin'\n  },\n  current_user: state => {\n    return state.current_user\n  },\n  logging_in: state => {\n    return state.logging_in\n  },\n  token: state => {\n    return state.token\n  },\n  fetching: state => {\n    return state.fetching\n  }\n}\n\nexport default getters\n",
+    "static": true,
+    "longname": "/home/aeksco/code/rcos/observatory-docs/observatory-client/src/store/auth/getters.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 104,
+    "kind": "variable",
+    "name": "getters",
+    "memberof": "src/store/auth/getters.js",
+    "static": true,
+    "longname": "src/store/auth/getters.js~getters",
+    "access": "public",
+    "export": true,
+    "importPath": "observatory-client/src/store/auth/getters.js",
+    "importStyle": "getters",
+    "description": null,
+    "lineNumber": 3,
+    "undocument": true,
+    "type": {
+      "types": [
+        "{\"login_user\": *, \"register_user\": *, \"is_authenticated\": *, \"isMentor\": *, \"isAdmin\": *, \"current_user\": *, \"logging_in\": *, \"token\": *, \"fetching\": *}"
+      ]
+    }
+  },
+  {
+    "__docId__": 105,
+    "kind": "file",
+    "name": "src/store/auth/index.js",
+    "content": "import actions from './actions'\nimport state from './state'\nimport getters from './getters'\nimport mutations from './mutations'\n\nexport default {\n  namespaced: true,\n  state: state,\n  mutations: mutations,\n  actions: actions,\n  getters: getters\n}\n",
+    "static": true,
+    "longname": "/home/aeksco/code/rcos/observatory-docs/observatory-client/src/store/auth/index.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 106,
+    "kind": "file",
+    "name": "src/store/auth/mutations.js",
+    "content": "\n// Auth Module mutations\nconst mutations = {\n  fetching (state, isFetching) {\n    state.fetching = isFetching\n  },\n  clear_login_user (state) {\n    state.login_user = {\n      email: '',\n      password: '',\n      errors: {}\n    }\n  },\n  clear_register_user (state) {\n    state.register_user = {\n      name: '',\n      email: '',\n      password: '',\n      passwordverify: '',\n      github: {\n        login: ''\n      },\n      errors: {}\n    }\n  },\n  logging_in (state, status) {\n    state.logging_in = status\n  },\n  token (state, token) {\n    localStorage.token = token\n    state.token = token\n  },\n  clear_token (state) {\n    localStorage.token = ''\n    state.token = ''\n  },\n  current_user (state, currentUser) {\n    state.current_user = currentUser\n  },\n  clear_current_user (state) {\n    state.current_user = {}\n  }\n}\n\nexport default mutations\n",
+    "static": true,
+    "longname": "/home/aeksco/code/rcos/observatory-docs/observatory-client/src/store/auth/mutations.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 107,
+    "kind": "variable",
+    "name": "mutations",
+    "memberof": "src/store/auth/mutations.js",
+    "static": true,
+    "longname": "src/store/auth/mutations.js~mutations",
+    "access": "public",
+    "export": true,
+    "importPath": "observatory-client/src/store/auth/mutations.js",
+    "importStyle": "mutations",
+    "description": null,
+    "lineNumber": 3,
+    "undocument": true,
+    "type": {
+      "types": [
+        "{\"fetching\": function, \"clear_login_user\": function, \"clear_register_user\": function, \"logging_in\": function, \"token\": function, \"clear_token\": function, \"current_user\": function, \"clear_current_user\": function}"
+      ]
+    }
+  },
+  {
+    "__docId__": 108,
+    "kind": "file",
+    "name": "src/store/auth/state.js",
+    "content": "\n// Auth Module State\nconst state = {\n  token: localStorage.token || '',\n  fetching: false,\n  logging_in: false,\n  current_user: {},\n  login_user: {\n    email: 'foo@bar.com',\n    password: 'abc123',\n    errors: {}\n  },\n  register_user: {\n    name: 'Name Namerson',\n    email: 'foo@bar.com',\n    github: {\n      login: 'boofar'\n    },\n    password: 'abc123',\n    passwordverify: 'abc123',\n    errors: {}\n  }\n}\n\nexport default state\n",
+    "static": true,
+    "longname": "/home/aeksco/code/rcos/observatory-docs/observatory-client/src/store/auth/state.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 109,
+    "kind": "variable",
+    "name": "state",
+    "memberof": "src/store/auth/state.js",
+    "static": true,
+    "longname": "src/store/auth/state.js~state",
+    "access": "public",
+    "export": true,
+    "importPath": "observatory-client/src/store/auth/state.js",
+    "importStyle": "state",
+    "description": null,
+    "lineNumber": 3,
+    "undocument": true,
+    "type": {
+      "types": [
+        "{\"token\": *, \"fetching\": *, \"logging_in\": *, \"current_user\": *, \"login_user\": *, \"register_user\": *}"
+      ]
+    }
+  },
+  {
+    "__docId__": 110,
+    "kind": "file",
+    "name": "src/store/blog/actions.js",
+    "content": "import { $GET, $DEL } from '@/store/lib/helpers'\nimport { API_ROOT } from './constants'\n\n// Blog actions\nexport default {\n  // Fetches Collection from the server\n  fetchCollection: ({ commit }) => {\n    commit('fetching', true)\n\n    $GET(API_ROOT)\n    .then((json) => {\n      commit('fetching', false)\n      commit('collection', json)\n    })\n    .catch((err) => {\n      commit('fetching', false)\n      throw err\n    })\n  },\n  // Fetches Model from the server\n  fetchModel ({ commit }, blogId) {\n    commit('fetching', true)\n\n    $GET(`${API_ROOT}/${blogId}`)\n    .then((blog) => {\n      commit('current', blog)\n      commit('fetching', false)\n    })\n    .catch((err) => {\n      commit('fetching', false)\n      throw err\n    })\n  },\n  create ({ commit }) {\n  },\n  update ({ commit }) {\n  },\n  destroy ({ commit, rootGetters }, postID) {\n    commit('destroying', true)\n    $DEL(`${API_ROOT}/${postID}`, { token: rootGetters['auth/token'] })\n    .then((project) => {\n      commit('destroying', false)\n    })\n    .catch((err) => {\n      commit('destroying', false)\n      throw err // TODO - better error handling\n    })\n  }\n}\n",
+    "static": true,
+    "longname": "/home/aeksco/code/rcos/observatory-docs/observatory-client/src/store/blog/actions.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 111,
+    "kind": "file",
+    "name": "src/store/blog/constants.js",
+    "content": "// Blog Module Constants\n\nexport const API_ROOT = '/api/posts'\n\nexport const NEW_BLOG = {\n  title: '',\n  body: '',\n  project_id: '',\n  user_id: '',\n  tech: [],\n  errors: {}\n}\n",
+    "static": true,
+    "longname": "/home/aeksco/code/rcos/observatory-docs/observatory-client/src/store/blog/constants.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 112,
+    "kind": "variable",
+    "name": "API_ROOT",
+    "memberof": "src/store/blog/constants.js",
+    "static": true,
+    "longname": "src/store/blog/constants.js~API_ROOT",
+    "access": "public",
+    "export": true,
+    "importPath": "observatory-client/src/store/blog/constants.js",
+    "importStyle": "{API_ROOT}",
+    "description": null,
+    "lineNumber": 3,
+    "undocument": true,
+    "type": {
+      "types": [
+        "string"
+      ]
+    }
+  },
+  {
+    "__docId__": 113,
+    "kind": "variable",
+    "name": "NEW_BLOG",
+    "memberof": "src/store/blog/constants.js",
+    "static": true,
+    "longname": "src/store/blog/constants.js~NEW_BLOG",
+    "access": "public",
+    "export": true,
+    "importPath": "observatory-client/src/store/blog/constants.js",
+    "importStyle": "{NEW_BLOG}",
+    "description": null,
+    "lineNumber": 5,
+    "undocument": true,
+    "type": {
+      "types": [
+        "{\"title\": *, \"body\": *, \"project_id\": *, \"user_id\": *, \"tech\": *, \"errors\": *}"
+      ]
+    }
+  },
+  {
+    "__docId__": 114,
+    "kind": "file",
+    "name": "src/store/blog/index.js",
+    "content": "import actions from './actions'\nimport state from './state'\nimport getters from './getters'\nimport mutations from './mutations'\n\nexport default {\n  namespaced: true,\n  state: state,\n  mutations: mutations,\n  actions: actions,\n  getters: getters\n}\n",
+    "static": true,
+    "longname": "/home/aeksco/code/rcos/observatory-docs/observatory-client/src/store/blog/index.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 115,
+    "kind": "file",
+    "name": "src/store/index.js",
+    "content": "import Vue from 'vue'\nimport Vuex from 'vuex'\nimport achievement from './achievement'\nimport auth from './auth'\nimport project from './project'\nimport blog from './blog'\nimport user from './user'\nimport smallgroup from './smallgroup'\nimport notification from './notification'\n\nVue.use(Vuex)\n\n// A Vuex instance is created by combining the state, mutations, actions,\n// and getters.\nexport default new Vuex.Store({\n  modules: {\n    auth,\n    achievement,\n    project,\n    blog,\n    user,\n    smallgroup,\n    notification\n  }\n})\n",
+    "static": true,
+    "longname": "/home/aeksco/code/rcos/observatory-docs/observatory-client/src/store/index.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 116,
+    "kind": "file",
+    "name": "src/store/lib/mixins.js",
+    "content": "import _ from 'lodash'\n\n// // // //\n// Adds a Collection to a Vuex module\n\nexport const COLLECTION_GETTERS = {\n  collection: state => {\n    return state.collection\n  },\n  fetching: state => {\n    return state.fetching\n  }\n}\n\nexport const COLLECTION_MUTATIONS = {\n  collection (state, collection) {\n    state.collection = collection\n  },\n  fetching (state, isFetching) {\n    state.fetching = isFetching\n  }\n}\n\nexport const COLLECTION_STATE = {\n  collection: [],\n  fetching: false\n}\n\n// // // //\n// Adds a Model definition to a Vuex module\nexport const MODEL_GETTERS = {\n  model: state => {\n    return state.model\n  }\n}\n\nexport const MODEL_MUTATIONS = {\n  model (state, model) {\n    state.model = model\n  }\n}\n\nexport const MODEL_STATE = {\n  model: {}\n}\n\n// // // //\n// Adds Collection filtering to a Vuex module\n// TODO - abstract `showingInactive` into a separate mixin\n\nexport const FILTER_GETTERS = {\n  filteredCollection: state => {\n    return state.filteredCollection\n  },\n  filter: state => {\n    return state.filter\n  },\n  showingInactive: state => {\n    return state.showingInactive\n  },\n  orderBy: state => {\n    return state.orderBy\n  }\n}\n\nexport const FILTER_MUTATIONS = {\n  filteredCollection (state, filteredCollection) {\n    state.filteredCollection = filteredCollection\n  },\n  filter (state, filter) {\n    state.filter = filter\n  },\n  showingInactive (state, show) {\n    state.showingInactive = show\n  },\n  orderBy (state, orderBy) {\n    state.orderBy = orderBy\n  }\n}\n\nexport const FILTER_STATE = {\n  filteredCollection: [],\n  filter: '',\n  showingInactive: false,\n  orderBy: 'asc' // 'asc' or 'desc'\n}\n\nexport const FILTER_ACTIONS = {\n  // module/toggleOrderBy\n  toggleOrderBy ({ state, commit, dispatch }) {\n    const ORDER_ASC = 'asc'\n    const ORDER_DESC = 'desc'\n    if (state.orderBy === ORDER_ASC) {\n      commit('orderBy', ORDER_DESC)\n    } else {\n      commit('orderBy', ORDER_ASC)\n    }\n    dispatch('filteredCollection')\n  },\n\n  // module/toggleInactive\n  toggleInactive ({ state, commit, dispatch }) {\n    if (state.showingInactive) {\n      commit('showingInactive', false)\n    } else {\n      commit('showingInactive', true)\n    }\n    // Re-fetches the collection\n    dispatch('fetchCollection')\n  },\n\n  // module/setFilter\n  // Updates the current search query, invokes the module/filter mutation\n  setFilter ({ commit, dispatch }, filter) {\n    commit('filter', filter)\n    dispatch('filteredCollection')\n  }\n}\n\n// // // //\n// Pagination Mixins\n\nexport const PAGINATION_STATE = {\n  start: 0,\n  pageSize: 3,\n  currentPage: 1,\n  paginatedCollection: []\n}\n\nexport const PAGINATION_ACTIONS = {\n  paginatedCollection ({ state, commit }) {\n    let collection = state.filteredCollection || state.collection\n\n    function paginate () {\n      return _.chain(collection)\n      .drop(state.start)\n      .take(state.pageSize)\n      .value()\n    }\n\n    let paginatedCollection = paginate()\n\n    if (paginatedCollection.length === 0 && state.currentPage > 1) {\n      commit('currentPage', 1)\n      commit('paginatedCollection', paginate())\n    } else {\n      commit('paginatedCollection', paginatedCollection)\n    }\n  },\n  pageSize ({ dispatch, commit }, newSize) {\n    commit('pageSize', newSize)\n    dispatch('paginatedCollection')\n  },\n  goToPage ({ dispatch, commit }, page) {\n    commit('currentPage', page)\n    dispatch('paginatedCollection')\n  },\n  prevPage ({ dispatch, state, commit }) {\n    commit('currentPage', state.currentPage - 1)\n    dispatch('paginatedCollection')\n  },\n  nextPage ({ dispatch, state, commit }) {\n    commit('currentPage', state.currentPage + 1)\n    dispatch('paginatedCollection')\n  },\n  firstPage ({ dispatch, commit }) {\n    commit('currentPage', 1)\n    dispatch('paginatedCollection')\n  },\n  lastPage ({ dispatch, state, commit }) {\n    let collection = state.filteredCollection || state.collection\n    commit('currentPage', Math.ceil(collection.length / state.pageSize))\n    dispatch('paginatedCollection')\n  }\n}\n\nexport const PAGINATION_MUTATIONS = {\n  currentPage (state, page) {\n    state.currentPage = page\n    state.start = (page - 1) * state.pageSize\n  },\n  pageSize (state, newSize) {\n    state.pageSize = newSize\n    state.start = (state.currentPage - 1) * state.pageSize\n  },\n  start (state, start) {\n    state.start = start\n  },\n  paginatedCollection (state, paginatedCollection) {\n    state.paginatedCollection = paginatedCollection\n  }\n}\n\nexport const PAGINATION_GETTERS = {\n  pages: state => {\n    let collection = state.filteredCollection || state.collection\n    let total = Math.ceil(collection.length / state.pageSize)\n    let current = Math.ceil(state.start / state.pageSize) + 1\n    let pages = _.times(total, index => {\n      return {\n        current: index + 1 === current,\n        page: index + 1\n      }\n    })\n\n    return pages\n  },\n  currentPage: state => {\n    return state.currentPage\n  },\n  totalPages: state => {\n    let collection = state.filteredCollection || state.collection\n    return Math.ceil(collection.length / state.pageSize)\n  },\n  prevPage: state => {\n    return state.currentPage - 1 > 0 ? state.currentPage - 1 : false\n  },\n  nextPage: state => {\n    let collection = state.filteredCollection || state.collection\n    let total = Math.ceil(collection.length / state.pageSize)\n    return state.currentPage < total ? state.currentPage + 1 : false\n  },\n  paginatedCollection: state => {\n    return state.paginatedCollection\n  }\n}\n",
+    "static": true,
+    "longname": "/home/aeksco/code/rcos/observatory-docs/observatory-client/src/store/lib/mixins.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 117,
+    "kind": "variable",
+    "name": "COLLECTION_GETTERS",
+    "memberof": "src/store/lib/mixins.js",
+    "static": true,
+    "longname": "src/store/lib/mixins.js~COLLECTION_GETTERS",
+    "access": "public",
+    "export": true,
+    "importPath": "observatory-client/src/store/lib/mixins.js",
+    "importStyle": "{COLLECTION_GETTERS}",
+    "description": null,
+    "lineNumber": 6,
+    "undocument": true,
+    "type": {
+      "types": [
+        "{\"collection\": *, \"fetching\": *}"
+      ]
+    }
+  },
+  {
+    "__docId__": 118,
+    "kind": "variable",
+    "name": "COLLECTION_MUTATIONS",
+    "memberof": "src/store/lib/mixins.js",
+    "static": true,
+    "longname": "src/store/lib/mixins.js~COLLECTION_MUTATIONS",
+    "access": "public",
+    "export": true,
+    "importPath": "observatory-client/src/store/lib/mixins.js",
+    "importStyle": "{COLLECTION_MUTATIONS}",
+    "description": null,
+    "lineNumber": 15,
+    "undocument": true,
+    "type": {
+      "types": [
+        "{\"collection\": function, \"fetching\": function}"
+      ]
+    }
+  },
+  {
+    "__docId__": 119,
+    "kind": "variable",
+    "name": "COLLECTION_STATE",
+    "memberof": "src/store/lib/mixins.js",
+    "static": true,
+    "longname": "src/store/lib/mixins.js~COLLECTION_STATE",
+    "access": "public",
+    "export": true,
+    "importPath": "observatory-client/src/store/lib/mixins.js",
+    "importStyle": "{COLLECTION_STATE}",
+    "description": null,
+    "lineNumber": 24,
+    "undocument": true,
+    "type": {
+      "types": [
+        "{\"collection\": *, \"fetching\": *}"
+      ]
+    }
+  },
+  {
+    "__docId__": 120,
+    "kind": "variable",
+    "name": "MODEL_GETTERS",
+    "memberof": "src/store/lib/mixins.js",
+    "static": true,
+    "longname": "src/store/lib/mixins.js~MODEL_GETTERS",
+    "access": "public",
+    "export": true,
+    "importPath": "observatory-client/src/store/lib/mixins.js",
+    "importStyle": "{MODEL_GETTERS}",
+    "description": null,
+    "lineNumber": 31,
+    "undocument": true,
+    "type": {
+      "types": [
+        "{\"model\": *}"
+      ]
+    }
+  },
+  {
+    "__docId__": 121,
+    "kind": "variable",
+    "name": "MODEL_MUTATIONS",
+    "memberof": "src/store/lib/mixins.js",
+    "static": true,
+    "longname": "src/store/lib/mixins.js~MODEL_MUTATIONS",
+    "access": "public",
+    "export": true,
+    "importPath": "observatory-client/src/store/lib/mixins.js",
+    "importStyle": "{MODEL_MUTATIONS}",
+    "description": null,
+    "lineNumber": 37,
+    "undocument": true,
+    "type": {
+      "types": [
+        "{\"model\": function}"
+      ]
+    }
+  },
+  {
+    "__docId__": 122,
+    "kind": "variable",
+    "name": "MODEL_STATE",
+    "memberof": "src/store/lib/mixins.js",
+    "static": true,
+    "longname": "src/store/lib/mixins.js~MODEL_STATE",
+    "access": "public",
+    "export": true,
+    "importPath": "observatory-client/src/store/lib/mixins.js",
+    "importStyle": "{MODEL_STATE}",
+    "description": null,
+    "lineNumber": 43,
+    "undocument": true,
+    "type": {
+      "types": [
+        "{\"model\": *}"
+      ]
+    }
+  },
+  {
+    "__docId__": 123,
+    "kind": "variable",
+    "name": "FILTER_GETTERS",
+    "memberof": "src/store/lib/mixins.js",
+    "static": true,
+    "longname": "src/store/lib/mixins.js~FILTER_GETTERS",
+    "access": "public",
+    "export": true,
+    "importPath": "observatory-client/src/store/lib/mixins.js",
+    "importStyle": "{FILTER_GETTERS}",
+    "description": null,
+    "lineNumber": 51,
+    "undocument": true,
+    "type": {
+      "types": [
+        "{\"filteredCollection\": *, \"filter\": *, \"showingInactive\": *, \"orderBy\": *}"
+      ]
+    }
+  },
+  {
+    "__docId__": 124,
+    "kind": "variable",
+    "name": "FILTER_MUTATIONS",
+    "memberof": "src/store/lib/mixins.js",
+    "static": true,
+    "longname": "src/store/lib/mixins.js~FILTER_MUTATIONS",
+    "access": "public",
+    "export": true,
+    "importPath": "observatory-client/src/store/lib/mixins.js",
+    "importStyle": "{FILTER_MUTATIONS}",
+    "description": null,
+    "lineNumber": 66,
+    "undocument": true,
+    "type": {
+      "types": [
+        "{\"filteredCollection\": function, \"filter\": function, \"showingInactive\": function, \"orderBy\": function}"
+      ]
+    }
+  },
+  {
+    "__docId__": 125,
+    "kind": "variable",
+    "name": "FILTER_STATE",
+    "memberof": "src/store/lib/mixins.js",
+    "static": true,
+    "longname": "src/store/lib/mixins.js~FILTER_STATE",
+    "access": "public",
+    "export": true,
+    "importPath": "observatory-client/src/store/lib/mixins.js",
+    "importStyle": "{FILTER_STATE}",
+    "description": null,
+    "lineNumber": 81,
+    "undocument": true,
+    "type": {
+      "types": [
+        "{\"filteredCollection\": *, \"filter\": *, \"showingInactive\": *, \"orderBy\": string}"
+      ]
+    }
+  },
+  {
+    "__docId__": 126,
+    "kind": "variable",
+    "name": "FILTER_ACTIONS",
+    "memberof": "src/store/lib/mixins.js",
+    "static": true,
+    "longname": "src/store/lib/mixins.js~FILTER_ACTIONS",
+    "access": "public",
+    "export": true,
+    "importPath": "observatory-client/src/store/lib/mixins.js",
+    "importStyle": "{FILTER_ACTIONS}",
+    "description": null,
+    "lineNumber": 88,
+    "undocument": true,
+    "type": {
+      "types": [
+        "{\"toggleOrderBy\": function, \"toggleInactive\": function, \"setFilter\": function}"
+      ]
+    }
+  },
+  {
+    "__docId__": 127,
+    "kind": "variable",
+    "name": "PAGINATION_STATE",
+    "memberof": "src/store/lib/mixins.js",
+    "static": true,
+    "longname": "src/store/lib/mixins.js~PAGINATION_STATE",
+    "access": "public",
+    "export": true,
+    "importPath": "observatory-client/src/store/lib/mixins.js",
+    "importStyle": "{PAGINATION_STATE}",
+    "description": null,
+    "lineNumber": 123,
+    "undocument": true,
+    "type": {
+      "types": [
+        "{\"start\": *, \"pageSize\": number, \"currentPage\": number, \"paginatedCollection\": *}"
+      ]
+    }
+  },
+  {
+    "__docId__": 128,
+    "kind": "variable",
+    "name": "PAGINATION_ACTIONS",
+    "memberof": "src/store/lib/mixins.js",
+    "static": true,
+    "longname": "src/store/lib/mixins.js~PAGINATION_ACTIONS",
+    "access": "public",
+    "export": true,
+    "importPath": "observatory-client/src/store/lib/mixins.js",
+    "importStyle": "{PAGINATION_ACTIONS}",
+    "description": null,
+    "lineNumber": 130,
+    "undocument": true,
+    "type": {
+      "types": [
+        "{\"paginatedCollection\": function, \"pageSize\": function, \"goToPage\": function, \"prevPage\": function, \"nextPage\": function, \"firstPage\": function, \"lastPage\": function}"
+      ]
+    }
+  },
+  {
+    "__docId__": 129,
+    "kind": "variable",
+    "name": "PAGINATION_MUTATIONS",
+    "memberof": "src/store/lib/mixins.js",
+    "static": true,
+    "longname": "src/store/lib/mixins.js~PAGINATION_MUTATIONS",
+    "access": "public",
+    "export": true,
+    "importPath": "observatory-client/src/store/lib/mixins.js",
+    "importStyle": "{PAGINATION_MUTATIONS}",
+    "description": null,
+    "lineNumber": 177,
+    "undocument": true,
+    "type": {
+      "types": [
+        "{\"currentPage\": function, \"pageSize\": function, \"start\": function, \"paginatedCollection\": function}"
+      ]
+    }
+  },
+  {
+    "__docId__": 130,
+    "kind": "variable",
+    "name": "PAGINATION_GETTERS",
+    "memberof": "src/store/lib/mixins.js",
+    "static": true,
+    "longname": "src/store/lib/mixins.js~PAGINATION_GETTERS",
+    "access": "public",
+    "export": true,
+    "importPath": "observatory-client/src/store/lib/mixins.js",
+    "importStyle": "{PAGINATION_GETTERS}",
+    "description": null,
+    "lineNumber": 194,
+    "undocument": true,
+    "type": {
+      "types": [
+        "{\"pages\": *, \"currentPage\": *, \"totalPages\": *, \"prevPage\": *, \"nextPage\": *, \"paginatedCollection\": *}"
+      ]
+    }
+  },
+  {
+    "__docId__": 131,
+    "kind": "file",
+    "name": "src/store/notification/getters.js",
+    "content": "\n// Project Module Getters\nconst getters = {\n  collection: state => {\n    return state.collection\n  }\n}\n\nexport default getters\n",
+    "static": true,
+    "longname": "/home/aeksco/code/rcos/observatory-docs/observatory-client/src/store/notification/getters.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 132,
+    "kind": "variable",
+    "name": "getters",
+    "memberof": "src/store/notification/getters.js",
+    "static": true,
+    "longname": "src/store/notification/getters.js~getters",
+    "access": "public",
+    "export": true,
+    "importPath": "observatory-client/src/store/notification/getters.js",
+    "importStyle": "getters",
+    "description": null,
+    "lineNumber": 3,
+    "undocument": true,
+    "type": {
+      "types": [
+        "{\"collection\": *}"
+      ]
+    }
+  },
+  {
+    "__docId__": 133,
+    "kind": "file",
+    "name": "src/store/notification/index.js",
+    "content": "import state from './state'\nimport getters from './getters'\nimport mutations from './mutations'\n\nexport default {\n  namespaced: true,\n  state: state,\n  mutations: mutations,\n  getters: getters\n}\n",
+    "static": true,
+    "longname": "/home/aeksco/code/rcos/observatory-docs/observatory-client/src/store/notification/index.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 134,
+    "kind": "file",
+    "name": "src/store/notification/mutations.js",
+    "content": "import _ from 'lodash'\n\n// // // //\n\n// removeNotification\n// Helper function used to remove a notification from state.collection\nfunction removeNotification (collection, id) {\n  return _.filter(collection, (e) => { return e.id !== id })\n}\n\n// // // //\n\n// Notification Module mutations\n// TODO - these should be Notification actions\nexport default {\n  // Adds a notification to state.collection\n  add (state, notification) {\n    // Assigns unique ID to notification\n    // this is used for removing the notification after a timeout\n    let uniqueId = _.uniqueId()\n    notification.id = uniqueId\n\n    // Adds the notification to state.collection\n    state.collection.push(notification)\n\n    // Removes the notification after\n    setTimeout(() => {\n      state.collection = removeNotification(state.collection, uniqueId)\n    }, notification.timeout || 2500)\n  },\n\n  // Removes a Notification from state.collection\n  remove (state, notificationId) {\n    state.collection = removeNotification(state.collection, notificationId)\n  }\n}\n",
+    "static": true,
+    "longname": "/home/aeksco/code/rcos/observatory-docs/observatory-client/src/store/notification/mutations.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 135,
+    "kind": "function",
+    "name": "removeNotification",
+    "memberof": "src/store/notification/mutations.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/store/notification/mutations.js~removeNotification",
+    "access": "public",
+    "export": false,
+    "importPath": "observatory-client/src/store/notification/mutations.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 7,
+    "undocument": true,
+    "params": [
+      {
+        "name": "collection",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "id",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 136,
+    "kind": "file",
+    "name": "src/store/notification/state.js",
+    "content": "\n// Notification Module State\nconst state = {\n  collection: [\n    // Notification examples:\n    // { id: 111, dismissible: true, strong: 'Warning', message: 'Something went wrong.', context: 'warning' },\n    // { id: 222, dismissible: true, strong: 'Info', message: 'Something went wrong.', context: 'info' },\n    // { id: 333, dismissible: true, strong: 'Danger!', message: 'Something went wrong.', context: 'danger' }\n  ]\n}\n\nexport default state\n",
+    "static": true,
+    "longname": "/home/aeksco/code/rcos/observatory-docs/observatory-client/src/store/notification/state.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 137,
+    "kind": "variable",
+    "name": "state",
+    "memberof": "src/store/notification/state.js",
+    "static": true,
+    "longname": "src/store/notification/state.js~state",
+    "access": "public",
+    "export": true,
+    "importPath": "observatory-client/src/store/notification/state.js",
+    "importStyle": "state",
+    "description": null,
+    "lineNumber": 3,
+    "undocument": true,
+    "type": {
+      "types": [
+        "{\"collection\": *}"
+      ]
+    }
+  },
+  {
+    "__docId__": 138,
+    "kind": "file",
+    "name": "src/store/project/constants.js",
+    "content": "// Project Module Constants\n\n// Project module API_ROOT\nexport const API_ROOT = '/api/projects'\n\n// TODO - not all of these fields are needed.\n// Pare this down to only include the fields that are not automatically assigned by the server\nexport const NEW_PROJECT = {\n  name: '',\n  description: '',\n  githubUsername: '',\n  githubProjectName: '',\n  active: true,\n  tech: [],\n  photos: [],\n  repositories: [],\n  repositoryType: 'github',\n  errors: {}\n}\n",
+    "static": true,
+    "longname": "/home/aeksco/code/rcos/observatory-docs/observatory-client/src/store/project/constants.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 139,
+    "kind": "variable",
+    "name": "API_ROOT",
+    "memberof": "src/store/project/constants.js",
+    "static": true,
+    "longname": "src/store/project/constants.js~API_ROOT",
+    "access": "public",
+    "export": true,
+    "importPath": "observatory-client/src/store/project/constants.js",
+    "importStyle": "{API_ROOT}",
+    "description": null,
+    "lineNumber": 4,
+    "undocument": true,
+    "type": {
+      "types": [
+        "string"
+      ]
+    }
+  },
+  {
+    "__docId__": 140,
+    "kind": "variable",
+    "name": "NEW_PROJECT",
+    "memberof": "src/store/project/constants.js",
+    "static": true,
+    "longname": "src/store/project/constants.js~NEW_PROJECT",
+    "access": "public",
+    "export": true,
+    "importPath": "observatory-client/src/store/project/constants.js",
+    "importStyle": "{NEW_PROJECT}",
+    "description": null,
+    "lineNumber": 8,
+    "undocument": true,
+    "type": {
+      "types": [
+        "{\"name\": *, \"description\": *, \"githubUsername\": *, \"githubProjectName\": *, \"active\": boolean, \"tech\": *, \"photos\": *, \"repositories\": *, \"repositoryType\": string, \"errors\": *}"
+      ]
+    }
+  },
+  {
+    "__docId__": 141,
+    "kind": "file",
+    "name": "src/store/project/index.js",
+    "content": "import actions from './actions'\nimport state from './state'\nimport getters from './getters'\nimport mutations from './mutations'\n\nexport default {\n  namespaced: true,\n  state: state,\n  mutations: mutations,\n  actions: actions,\n  getters: getters\n}\n",
+    "static": true,
+    "longname": "/home/aeksco/code/rcos/observatory-docs/observatory-client/src/store/project/index.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 142,
+    "kind": "file",
+    "name": "src/store/smallgroup/actions.js",
+    "content": "import { API_ROOT } from './constants'\nimport { $GET } from '@/store/lib/helpers'\n\n// // // //\n\n// SmallGroup module actions\n// functions that causes side effects and can involve asynchronous operations.\nexport default {\n  fetchCollection: ({ state, commit, dispatch, rootGetters }) => {\n    commit('fetching', true)\n\n    // Fetches Collection from the server\n    $GET(API_ROOT, { token: rootGetters['auth/token'] })\n    .then((json) => {\n      commit('collection', json)\n      commit('fetching', false)\n    })\n    .catch((err) => {\n      commit('fetching', false)\n      throw err // TODO - better error handling\n    })\n  },\n\n  // create SmallGroup\n  create ({ commit }) {\n  },\n\n  // update SmallGroup\n  update ({ commit }, attributes) {\n  },\n\n  // destroy SmallGroup\n  destroy ({ commit }, id) {\n  }\n}\n",
+    "static": true,
+    "longname": "/home/aeksco/code/rcos/observatory-docs/observatory-client/src/store/smallgroup/actions.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 143,
+    "kind": "file",
+    "name": "src/store/smallgroup/constants.js",
+    "content": "// SmallGroup Module Constants\n\n// SmallGroup module API_ROOT\nexport const API_ROOT = '/api/smallgroup'\n",
+    "static": true,
+    "longname": "/home/aeksco/code/rcos/observatory-docs/observatory-client/src/store/smallgroup/constants.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 144,
+    "kind": "variable",
+    "name": "API_ROOT",
+    "memberof": "src/store/smallgroup/constants.js",
+    "static": true,
+    "longname": "src/store/smallgroup/constants.js~API_ROOT",
+    "access": "public",
+    "export": true,
+    "importPath": "observatory-client/src/store/smallgroup/constants.js",
+    "importStyle": "{API_ROOT}",
+    "description": null,
+    "lineNumber": 4,
+    "undocument": true,
+    "type": {
+      "types": [
+        "string"
+      ]
+    }
+  },
+  {
+    "__docId__": 145,
+    "kind": "file",
+    "name": "src/store/smallgroup/index.js",
+    "content": "import actions from './actions'\nimport state from './state'\nimport getters from './getters'\nimport mutations from './mutations'\n\nexport default {\n  namespaced: true,\n  state: state,\n  mutations: mutations,\n  actions: actions,\n  getters: getters\n}\n",
+    "static": true,
+    "longname": "/home/aeksco/code/rcos/observatory-docs/observatory-client/src/store/smallgroup/index.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 146,
+    "kind": "file",
+    "name": "src/store/user/index.js",
+    "content": "import actions from './actions'\nimport state from './state'\nimport getters from './getters'\nimport mutations from './mutations'\n\nexport default {\n  namespaced: true,\n  state: state,\n  mutations: mutations,\n  actions: actions,\n  getters: getters\n}\n",
+    "static": true,
+    "longname": "/home/aeksco/code/rcos/observatory-docs/observatory-client/src/store/user/index.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "kind": "index",
+    "content": "# Observatory3_vue\n\n> A Vue.js project\n\n## Core skills:\n    HTML\n    CSS\n    JAVAScript\n\n## Prerequisites:\n    [Git](https://git-scm.com/) (practice it [here](https://try.github.io/levels/1/challenges/1))\n    [Node.js and npm](https://nodejs.org/) Node ^4.2.3, npm ^2.14.7 (nodejs-legacy for debian-based distributions)\n    Text Editor - Sublime Text, Atom, or VSCode would be ideal\n\n### Text Exitor Configuration\n- Install [EditorConfig](http://editorconfig.org/) plugin\n- Install Vue.js syntax highlight plugin\n\n### Vue.js + Vuex Debugger\nThe [Vue.js devtools](https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd?hl=en) Chrome extension is extrodinarily helpful, particularly for debugging Vuex state changes.\n\n<!-- TODO - NODE + NPM installation instructions -->\n<!-- ### For Linux: -->\n<!-- ### For Mac: -->\n<!-- ### For Windows: -->\n<!-- Install [Node.js and npm](http://blog.teamtreehouse.com/install-node-js-npm-windows) -->\n\n### Commandline:\n    Run npm “npm start\" to start observatory-client\n\n    Once everything is up and running, start developing! DON’T forget to commit frequently on your personal fork. If you are not familiar with git, read prerequisite above about git.\n\n### Understanding Vue:\n    Knowing the basics of JavaScript\n    Vue basics (components, props, class/style binding)\n    Vue router to add functionality\n    Overview of how vueX  works (comparable to Redux)\n    Bootstrap4, particularly containers/components\n\n### Developer Procedure:\n    Learn basic HTML,CSS, Javascript, and git:\n    Lynda.com, codecademy, hackerrank\n    Setup dev environment\n    Check on github if there is any issue that are assigned to you.\n    Pull request from the upstream and commit.\n    Work on the issue that are assigned. If there aren’t any, assign some issues that you want to work on to yourself.\n    Push request after working on the issue to YOUR repository!!! Not upstream!\n    Once your repo is ready to merge with the upstream. Talk with team manager and get it confirmed.\n    Repeat 3~7.\n\n\n## Build Setup\n\n``` bash\n# install dependencies\nnpm install\n\n# serve with hot reload at localhost:8080\nnpm run dev\n\n# build for production with minification\nnpm run build\n\n# build for production and view the bundle analyzer report\nnpm run build --report\n\n# run unit tests\nnpm run unit\n\n# run e2e tests\nnpm run e2e\n\n# run all tests\nnpm test\n```\n\nFor a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).\n",
+    "longname": "/home/aeksco/code/rcos/observatory-docs/observatory-client/README.md",
+    "name": "./README.md",
+    "static": true,
+    "access": "public"
+  },
+  {
+    "kind": "packageJSON",
+    "content": "{\n  \"name\": \"observatory-client\",\n  \"version\": \"1.0.0\",\n  \"license\": \"MIT\",\n  \"scripts\": {\n    \"dev\": \"node build/dev-server.js\",\n    \"start\": \"npm run dev\",\n    \"build\": \"node build/build.js\",\n    \"unit\": \"cross-env BABEL_ENV=test karma start test/unit/karma.conf.js --single-run\",\n    \"e2e\": \"node test/e2e/runner.js\",\n    \"test\": \"npm run unit && npm run e2e\",\n    \"lint\": \"eslint --ext .js,.vue src test/unit/specs test/e2e/specs\",\n    \"doc\": \"./node_modules/.bin/esdoc\"\n  },\n  \"dependencies\": {\n    \"bootstrap\": \"^4.0.0-beta.2\",\n    \"bootstrap-vue\": \"^1.1.0\",\n    \"mavon-editor\": \"^2.5.2\",\n    \"vue\": \"^2.5.2\",\n    \"vue-input-tag\": \"0.0.16\",\n    \"vue-meta\": \"^1.2.0\",\n    \"vue-router\": \"^3.0.1\",\n    \"vuex\": \"^3.0.0\"\n  },\n  \"devDependencies\": {\n    \"autoprefixer\": \"^7.1.2\",\n    \"babel-core\": \"^6.22.1\",\n    \"babel-eslint\": \"^7.1.1\",\n    \"babel-loader\": \"^7.1.1\",\n    \"babel-plugin-istanbul\": \"^4.1.1\",\n    \"babel-plugin-transform-runtime\": \"^6.22.0\",\n    \"babel-preset-env\": \"^1.3.2\",\n    \"babel-preset-stage-2\": \"^6.22.0\",\n    \"babel-register\": \"^6.22.0\",\n    \"chai\": \"^4.1.2\",\n    \"chalk\": \"^2.0.1\",\n    \"chromedriver\": \"^2.27.2\",\n    \"connect-history-api-fallback\": \"^1.3.0\",\n    \"copy-webpack-plugin\": \"^4.0.1\",\n    \"cross-env\": \"^5.0.1\",\n    \"cross-spawn\": \"^5.0.1\",\n    \"css-loader\": \"^0.28.0\",\n    \"esdoc\": \"^1.0.4\",\n    \"esdoc-standard-plugin\": \"^1.0.0\",\n    \"eslint\": \"^3.19.0\",\n    \"eslint-config-standard\": \"^10.2.1\",\n    \"eslint-friendly-formatter\": \"^3.0.0\",\n    \"eslint-loader\": \"^1.7.1\",\n    \"eslint-plugin-html\": \"^3.0.0\",\n    \"eslint-plugin-import\": \"^2.7.0\",\n    \"eslint-plugin-node\": \"^5.2.0\",\n    \"eslint-plugin-promise\": \"^3.4.0\",\n    \"eslint-plugin-standard\": \"^3.0.1\",\n    \"eventsource-polyfill\": \"^0.9.6\",\n    \"express\": \"^4.14.1\",\n    \"extract-text-webpack-plugin\": \"^3.0.0\",\n    \"file-loader\": \"^1.1.4\",\n    \"friendly-errors-webpack-plugin\": \"^1.6.1\",\n    \"html-webpack-plugin\": \"^2.30.1\",\n    \"http-proxy-middleware\": \"^0.17.3\",\n    \"inject-loader\": \"^3.0.0\",\n    \"karma\": \"^1.4.1\",\n    \"karma-coverage\": \"^1.1.1\",\n    \"karma-mocha\": \"^1.3.0\",\n    \"karma-phantomjs-launcher\": \"^1.0.2\",\n    \"karma-phantomjs-shim\": \"^1.4.0\",\n    \"karma-sinon-chai\": \"^1.3.1\",\n    \"karma-sourcemap-loader\": \"^0.3.7\",\n    \"karma-spec-reporter\": \"0.0.31\",\n    \"karma-webpack\": \"^2.0.2\",\n    \"mocha\": \"^3.2.0\",\n    \"nightwatch\": \"^0.9.12\",\n    \"opn\": \"^5.1.0\",\n    \"optimize-css-assets-webpack-plugin\": \"^3.2.0\",\n    \"ora\": \"^1.2.0\",\n    \"phantomjs-prebuilt\": \"^2.1.14\",\n    \"portfinder\": \"^1.0.13\",\n    \"rimraf\": \"^2.6.0\",\n    \"selenium-server\": \"^3.0.1\",\n    \"semver\": \"^5.3.0\",\n    \"shelljs\": \"^0.7.6\",\n    \"sinon\": \"^4.0.0\",\n    \"sinon-chai\": \"^2.8.0\",\n    \"url-loader\": \"^0.5.8\",\n    \"vue-loader\": \"^13.3.0\",\n    \"vue-style-loader\": \"^3.0.1\",\n    \"vue-template-compiler\": \"^2.5.2\",\n    \"webpack\": \"^3.6.0\",\n    \"webpack-bundle-analyzer\": \"^2.9.0\",\n    \"webpack-dev-middleware\": \"^1.12.0\",\n    \"webpack-hot-middleware\": \"^2.18.2\",\n    \"webpack-merge\": \"^4.1.0\"\n  },\n  \"engines\": {\n    \"node\": \">= 4.0.0\",\n    \"npm\": \">= 3.0.0\"\n  },\n  \"browserslist\": [\n    \"> 1%\",\n    \"last 2 versions\",\n    \"not ie <= 8\"\n  ]\n}\n",
+    "longname": "/home/aeksco/code/rcos/observatory-docs/observatory-client/package.json",
+    "name": "package.json",
+    "static": true,
+    "access": "public"
+  }
+]

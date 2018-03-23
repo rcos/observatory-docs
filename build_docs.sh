@@ -1,6 +1,8 @@
 #!/bin/bash
 
-echo -e "\033[0;32mDeploying updates to GitHub...\033[0m"
+echo -e "\033[0;32mGenerating Observatory documentation...\033[0m"
+
+# # # #
 
 # Navigate into the observatory-server git submodule
 cd ./observatory-server
@@ -15,14 +17,35 @@ npm run apidoc
 # Move back up to project root
 cd ..
 
-# Copies the generated documentation
-cp -R ./observatory-server/doc/ docs/
+# # # #
 
-# Go To Public folder
-cd docs
+# Navigate into the observatory-server git submodule
+cd ./observatory-client
 
-# Come Back up to the Project Root
+# Pulls the latest development branch
+git pull origin dev
+
+# Installs dependencies
+npm install
+
+# Run `npm run apidoc`
+# This generates client/docs/
+npm run doc
+
+# Move back up to project root
 cd ..
+
+# # # #
+
+# Copies the generated documentation
+cp -R ./observatory-server/doc/ server-docs/
+
+# Copies the generated documentation
+cp -R ./observatory-client/docs/ client-docs/
+
+# # # #
+
+echo -e "\033[0;32mDeploying updates to GitHub...\033[0m"
 
 # Add changes to git
 git add .

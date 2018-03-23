@@ -1,0 +1,200 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <base data-ice="baseUrl" href="../../../../">
+  <title data-ice="title">src/store/auth/actions.js | observatory-client</title>
+  <link type="text/css" rel="stylesheet" href="css/style.css">
+  <link type="text/css" rel="stylesheet" href="css/prettify-tomorrow.css">
+  <script src="script/prettify/prettify.js"></script>
+  <script src="script/manual.js"></script>
+</head>
+<body class="layout-container" data-ice="rootContainer">
+
+<header>
+  <a href="./">Home</a>
+  
+  <a href="identifiers.html">Reference</a>
+  <a href="source.html">Source</a>
+  
+  <div class="search-box">
+  <span>
+    <img src="./image/search.png">
+    <span class="search-input-edge"></span><input class="search-input"><span class="search-input-edge"></span>
+  </span>
+    <ul class="search-result"></ul>
+  </div>
+</header>
+
+<nav class="navigation" data-ice="nav"><div>
+  <ul>
+    
+  <li data-ice="doc"><a data-ice="dirPath" class="nav-dir-path" href="identifiers.html#store-auth">store/auth</a><span data-ice="kind" class="kind-variable">V</span><span data-ice="name"><span><a href="variable/index.html#static-variable-actions">actions</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-variable">V</span><span data-ice="name"><span><a href="variable/index.html#static-variable-LOGIN_ERROR_NOTIFICATION">LOGIN_ERROR_NOTIFICATION</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-variable">V</span><span data-ice="name"><span><a href="variable/index.html#static-variable-LOGIN_ROUTE">LOGIN_ROUTE</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-variable">V</span><span data-ice="name"><span><a href="variable/index.html#static-variable-LOGIN_SUCCESS_NOTIFICATION">LOGIN_SUCCESS_NOTIFICATION</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-variable">V</span><span data-ice="name"><span><a href="variable/index.html#static-variable-PROFILE_ROUTE">PROFILE_ROUTE</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-variable">V</span><span data-ice="name"><span><a href="variable/index.html#static-variable-REGISTER_ERROR_NOTIFICATION">REGISTER_ERROR_NOTIFICATION</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-variable">V</span><span data-ice="name"><span><a href="variable/index.html#static-variable-REGISTER_ROUTE">REGISTER_ROUTE</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-variable">V</span><span data-ice="name"><span><a href="variable/index.html#static-variable-REGISTER_SUCCESS_NOTIFICATION">REGISTER_SUCCESS_NOTIFICATION</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-variable">V</span><span data-ice="name"><span><a href="variable/index.html#static-variable-getters">getters</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-variable">V</span><span data-ice="name"><span><a href="variable/index.html#static-variable-mutations">mutations</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-variable">V</span><span data-ice="name"><span><a href="variable/index.html#static-variable-state">state</a></span></span></li>
+<li data-ice="doc"><a data-ice="dirPath" class="nav-dir-path" href="identifiers.html#store-blog">store/blog</a><span data-ice="kind" class="kind-variable">V</span><span data-ice="name"><span><a href="variable/index.html#static-variable-API_ROOT">API_ROOT</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-variable">V</span><span data-ice="name"><span><a href="variable/index.html#static-variable-NEW_BLOG">NEW_BLOG</a></span></span></li>
+<li data-ice="doc"><a data-ice="dirPath" class="nav-dir-path" href="identifiers.html#store-lib">store/lib</a><span data-ice="kind" class="kind-variable">V</span><span data-ice="name"><span><a href="variable/index.html#static-variable-COLLECTION_GETTERS">COLLECTION_GETTERS</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-variable">V</span><span data-ice="name"><span><a href="variable/index.html#static-variable-COLLECTION_MUTATIONS">COLLECTION_MUTATIONS</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-variable">V</span><span data-ice="name"><span><a href="variable/index.html#static-variable-COLLECTION_STATE">COLLECTION_STATE</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-variable">V</span><span data-ice="name"><span><a href="variable/index.html#static-variable-FILTER_ACTIONS">FILTER_ACTIONS</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-variable">V</span><span data-ice="name"><span><a href="variable/index.html#static-variable-FILTER_GETTERS">FILTER_GETTERS</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-variable">V</span><span data-ice="name"><span><a href="variable/index.html#static-variable-FILTER_MUTATIONS">FILTER_MUTATIONS</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-variable">V</span><span data-ice="name"><span><a href="variable/index.html#static-variable-FILTER_STATE">FILTER_STATE</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-variable">V</span><span data-ice="name"><span><a href="variable/index.html#static-variable-MODEL_GETTERS">MODEL_GETTERS</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-variable">V</span><span data-ice="name"><span><a href="variable/index.html#static-variable-MODEL_MUTATIONS">MODEL_MUTATIONS</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-variable">V</span><span data-ice="name"><span><a href="variable/index.html#static-variable-MODEL_STATE">MODEL_STATE</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-variable">V</span><span data-ice="name"><span><a href="variable/index.html#static-variable-PAGINATION_ACTIONS">PAGINATION_ACTIONS</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-variable">V</span><span data-ice="name"><span><a href="variable/index.html#static-variable-PAGINATION_GETTERS">PAGINATION_GETTERS</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-variable">V</span><span data-ice="name"><span><a href="variable/index.html#static-variable-PAGINATION_MUTATIONS">PAGINATION_MUTATIONS</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-variable">V</span><span data-ice="name"><span><a href="variable/index.html#static-variable-PAGINATION_STATE">PAGINATION_STATE</a></span></span></li>
+<li data-ice="doc"><a data-ice="dirPath" class="nav-dir-path" href="identifiers.html#store-notification">store/notification</a><span data-ice="kind" class="kind-variable">V</span><span data-ice="name"><span><a href="variable/index.html#static-variable-getters">getters</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-variable">V</span><span data-ice="name"><span><a href="variable/index.html#static-variable-state">state</a></span></span></li>
+<li data-ice="doc"><a data-ice="dirPath" class="nav-dir-path" href="identifiers.html#store-project">store/project</a><span data-ice="kind" class="kind-variable">V</span><span data-ice="name"><span><a href="variable/index.html#static-variable-API_ROOT">API_ROOT</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-variable">V</span><span data-ice="name"><span><a href="variable/index.html#static-variable-NEW_PROJECT">NEW_PROJECT</a></span></span></li>
+<li data-ice="doc"><a data-ice="dirPath" class="nav-dir-path" href="identifiers.html#store-smallgroup">store/smallgroup</a><span data-ice="kind" class="kind-variable">V</span><span data-ice="name"><span><a href="variable/index.html#static-variable-API_ROOT">API_ROOT</a></span></span></li>
+</ul>
+</div>
+</nav>
+
+<div class="content" data-ice="content"><h1 data-ice="title">src/store/auth/actions.js</h1>
+<pre class="source-code line-number raw-source-code"><code class="prettyprint linenums" data-ice="content">import Router from &apos;@/routers&apos;
+import { $GET, $POST } from &apos;@/store/lib/helpers&apos;
+import {
+  LOGIN_ROUTE,
+  REGISTER_ROUTE,
+  PROFILE_ROUTE,
+  LOGIN_SUCCESS_NOTIFICATION,
+  LOGIN_ERROR_NOTIFICATION,
+  REGISTER_SUCCESS_NOTIFICATION,
+  REGISTER_ERROR_NOTIFICATION
+} from &apos;./constants&apos;
+
+// Auth module actions
+const actions = {
+  // fetchUserProfile
+  // Fetches a user&apos;s profiles form the server
+  fetchUserProfile ({ state, commit }) {
+    return new Promise((resolve, reject) =&gt; {
+      $GET(PROFILE_ROUTE, { token: state.token })
+      .then((json) =&gt; {
+        commit(&apos;current_user&apos;, json)
+        return resolve(json)
+      })
+      .catch((err) =&gt; {
+        commit(&apos;clear_token&apos;)
+        commit(&apos;clear_current_user&apos;)
+        // throw err
+        return reject(err)
+      })
+    })
+  },
+
+  // register
+  // Handles user registration state management
+  register ({ state, dispatch, commit }) {
+    // state.loggin_in = true
+    commit(&apos;logging_in&apos;, true)
+
+    // Assembles request payload
+    let { email, password, name, github } = state.register_user
+
+    // Sends registration data to server
+    $POST(REGISTER_ROUTE, { body: { email, password, name, github } })
+    .then((json) =&gt; {
+      commit(&apos;clear_register_user&apos;)
+      commit(&apos;logging_in&apos;, false)
+
+      // Updates store.token
+      commit(&apos;token&apos;, json.token)
+
+      // Fetches user profile
+      dispatch(&apos;fetchUserProfile&apos;)
+
+      // Shows REGISTER_SUCCESS_NOTIFICATION message
+      commit(&apos;notification/add&apos;, REGISTER_SUCCESS_NOTIFICATION, { root: true })
+
+      // Redirects to home route
+      Router.push(&apos;/&apos;)
+    })
+    .catch((err) =&gt; {
+      // Shows REGISTER_ERROR_NOTIFICATION message
+      commit(&apos;notification/add&apos;, REGISTER_ERROR_NOTIFICATION, { root: true })
+      throw err
+    })
+  },
+
+  // login
+  // Handles user login state management
+  login ({ commit, dispatch, state }) {
+    // state.loggin_in = true
+    commit(&apos;logging_in&apos;, true)
+
+    // Assembles request payload
+    let { email, password } = state.login_user
+
+    // Sends login data to server
+    $POST(LOGIN_ROUTE, { body: { email, password } })
+    .then((json) =&gt; {
+      // Changes loading state
+      commit(&apos;logging_in&apos;, false)
+
+      // Clears state.login_user
+      commit(&apos;clear_login_user&apos;)
+
+      // Updates store.token
+      commit(&apos;token&apos;, json.token)
+
+      // Shows LOGIN_SUCCESS_NOTIFICATION message
+      commit(&apos;notification/add&apos;, LOGIN_SUCCESS_NOTIFICATION, { root: true })
+
+      // Fetches user profile
+      dispatch(&apos;fetchUserProfile&apos;)
+
+      // Redirects to home route
+      Router.push(&apos;/&apos;)
+    })
+    .catch((err) =&gt; {
+      // Shows LOGIN_ERROR_NOTIFICATION message
+      commit(&apos;notification/add&apos;, LOGIN_ERROR_NOTIFICATION, { root: true })
+      throw err
+    })
+  },
+
+  // logout
+  // Handles user logout
+  logout ({ commit }) {
+    commit(&apos;clear_token&apos;)
+    commit(&apos;clear_current_user&apos;)
+    Router.push(&apos;/auth/login&apos;)
+  }
+}
+
+// // // //
+
+export default actions
+</code></pre>
+
+</div>
+
+<footer class="footer">
+  Generated by <a href="https://esdoc.org">ESDoc<span data-ice="esdocVersion">(1.0.4)</span><img src="./image/esdoc-logo-mini-black.png"></a>
+</footer>
+
+<script src="script/search_index.js"></script>
+<script src="script/search.js"></script>
+<script src="script/pretty-print.js"></script>
+<script src="script/inherited-summary.js"></script>
+<script src="script/test-summary.js"></script>
+<script src="script/inner-link.js"></script>
+<script src="script/patch-for-local.js"></script>
+</body>
+</html>
