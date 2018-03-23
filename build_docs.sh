@@ -18,7 +18,7 @@ npm run apidoc
 cd ..
 
 # Copies the generated documentation
-cp -R ./observatory-server/doc/ docs/
+cp -R ./observatory-server/doc/ server-docs/
 
 # # # #
 
@@ -29,7 +29,7 @@ cd ./observatory-client
 git pull origin dev
 
 # Installs dependencies
-npm install
+# npm install
 
 # Run `npm run apidoc`
 # This generates client/docs/
@@ -39,18 +39,18 @@ npm run doc
 cd ..
 
 # Copies the generated documentation
-cp -R ./observatory-server/docs/ client-docs/
+cp -R ./observatory-client/docs/ client-docs/
 
 # # # #
 
 echo -e "\033[0;32mDeploying updates to GitHub...\033[0m"
 
 # Add changes to git
-git add .
+# git add .
 
 # Commit changes
-msg="Rebuilding documentation - `date`"
-git commit -m "$msg"
+# msg="Rebuilding documentation - `date`"
+# git commit -m "$msg"
 
 # Push source to github.com/USER/observatory-docs
-git push origin dev
+# git push origin dev
