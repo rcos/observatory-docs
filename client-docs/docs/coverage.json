@@ -1,0 +1,212 @@
+{
+  "coverage": "0%",
+  "expectCount": 61,
+  "actualCount": 0,
+  "files": {
+    "src/config/api.js": {
+      "expectCount": 2,
+      "actualCount": 0,
+      "undocumentLines": [
+        2,
+        4
+      ]
+    },
+    "src/routers/achievement.js": {
+      "expectCount": 1,
+      "actualCount": 0,
+      "undocumentLines": [
+        4
+      ]
+    },
+    "src/routers/admin.js": {
+      "expectCount": 3,
+      "actualCount": 0,
+      "undocumentLines": [
+        6,
+        12,
+        18
+      ]
+    },
+    "src/routers/auth.js": {
+      "expectCount": 2,
+      "actualCount": 0,
+      "undocumentLines": [
+        5,
+        11
+      ]
+    },
+    "src/routers/blog.js": {
+      "expectCount": 4,
+      "actualCount": 0,
+      "undocumentLines": [
+        7,
+        13,
+        19,
+        26
+      ]
+    },
+    "src/routers/main.js": {
+      "expectCount": 3,
+      "actualCount": 0,
+      "undocumentLines": [
+        6,
+        12,
+        18
+      ]
+    },
+    "src/routers/mentor.js": {
+      "expectCount": 2,
+      "actualCount": 0,
+      "undocumentLines": [
+        5,
+        11
+      ]
+    },
+    "src/routers/middleware.js": {
+      "expectCount": 2,
+      "actualCount": 0,
+      "undocumentLines": [
+        4,
+        15
+      ]
+    },
+    "src/routers/project.js": {
+      "expectCount": 4,
+      "actualCount": 0,
+      "undocumentLines": [
+        7,
+        14,
+        21,
+        28
+      ]
+    },
+    "src/routers/smallgroup.js": {
+      "expectCount": 1,
+      "actualCount": 0,
+      "undocumentLines": [
+        4
+      ]
+    },
+    "src/routers/user.js": {
+      "expectCount": 3,
+      "actualCount": 0,
+      "undocumentLines": [
+        6,
+        12,
+        19
+      ]
+    },
+    "src/store/achievement/actions.js": {
+      "expectCount": 1,
+      "actualCount": 0,
+      "undocumentLines": [
+        2
+      ]
+    },
+    "src/store/auth/actions.js": {
+      "expectCount": 1,
+      "actualCount": 0,
+      "undocumentLines": [
+        14
+      ]
+    },
+    "src/store/auth/constants.js": {
+      "expectCount": 7,
+      "actualCount": 0,
+      "undocumentLines": [
+        2,
+        3,
+        4,
+        7,
+        13,
+        19,
+        25
+      ]
+    },
+    "src/store/auth/getters.js": {
+      "expectCount": 1,
+      "actualCount": 0,
+      "undocumentLines": [
+        3
+      ]
+    },
+    "src/store/auth/mutations.js": {
+      "expectCount": 1,
+      "actualCount": 0,
+      "undocumentLines": [
+        3
+      ]
+    },
+    "src/store/auth/state.js": {
+      "expectCount": 1,
+      "actualCount": 0,
+      "undocumentLines": [
+        3
+      ]
+    },
+    "src/store/blog/constants.js": {
+      "expectCount": 2,
+      "actualCount": 0,
+      "undocumentLines": [
+        3,
+        5
+      ]
+    },
+    "src/store/lib/mixins.js": {
+      "expectCount": 14,
+      "actualCount": 0,
+      "undocumentLines": [
+        6,
+        15,
+        24,
+        31,
+        37,
+        43,
+        51,
+        66,
+        81,
+        88,
+        123,
+        130,
+        177,
+        194
+      ]
+    },
+    "src/store/notification/getters.js": {
+      "expectCount": 1,
+      "actualCount": 0,
+      "undocumentLines": [
+        3
+      ]
+    },
+    "src/store/notification/mutations.js": {
+      "expectCount": 1,
+      "actualCount": 0,
+      "undocumentLines": [
+        7
+      ]
+    },
+    "src/store/notification/state.js": {
+      "expectCount": 1,
+      "actualCount": 0,
+      "undocumentLines": [
+        3
+      ]
+    },
+    "src/store/project/constants.js": {
+      "expectCount": 2,
+      "actualCount": 0,
+      "undocumentLines": [
+        4,
+        8
+      ]
+    },
+    "src/store/smallgroup/constants.js": {
+      "expectCount": 1,
+      "actualCount": 0,
+      "undocumentLines": [
+        4
+      ]
+    }
+  }
+}
